@@ -1,1417 +1,1239 @@
 #EXTM3U
-#EXTINF:-1, BBC 2 HD  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/17779.ts
-#EXTINF:-1, SETANTA SPORT IRELAND  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5002.ts
-#EXTINF:-1,: CNN TURK  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/669.ts
-#EXTINF:-1, ITV 2  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/17794.ts
-#EXTINF:-1,: DISCOVERY SHOWCASE  IPTVultra.com [1024x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5892.ts
-#EXTINF:-1, BOX NATION HD  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/689.ts
-#EXTINF:-1, UK: TVSN  IPTVultra.com [640x368]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/18599.ts
-#EXTINF:-1, SKY SPORT F1 HD  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/4681.ts
-#EXTINF:-1, DISNEY CHANNEL  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/680.ts
-#EXTINF:-1, BBC NEWS HD  IPTVultra.com [720x416]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/17780.ts
-#EXTINF:-1, BBC 1 HD  IPTVultra.com [1024x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/17778.ts
-#EXTINF:-1,: KANAL 7 AVRUPA  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/644.ts
-#EXTINF:-1, SKY SPORT 2  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/646.ts
-#EXTINF:-1, TR: KANAL 7 HD  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/643.ts
-#EXTINF:-1, CHELSEA TV  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20068.ts
-#EXTINF:-1, DISCOVERY TURBO  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8185.ts
-#EXTINF:-1,: NAT GEOGRAPHICH HD  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/660.ts
-#EXTINF:-1,  DISNEY XD  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/692.ts
-#EXTINF:-1, ESPN HD  IPTVultra.com [960x544]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/11033.ts
+#EXTINF:-1,Dubai Sports 4  IPTVultra.com [720x576]
+http://149.202.205.91:8081/live/pedro/skype/2194.ts
+#EXTINF:-1,  BeinHD Sports HD4  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/888.ts
+#EXTINF:-1, BEIN Sports 2 HD  IPTVultra.com [1280x736]
+http://149.202.205.91:8081/live/pedro/skype/282.ts
+#EXTINF:-1,  BeinHD Sports HD2  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/890.ts
+#EXTINF:-1, OSN SPORTS 4HD  IPTVultra.com [0x0]
+http://149.202.205.91:8081/live/pedro/skype/2439.ts
+#EXTINF:-1, BEINSPORTS 2  IPTVultra.com [960x544]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20546.ts
+#EXTINF:-1, OSN SPORTS2 HD  IPTVultra.com [0x0]
+http://149.202.205.91:8081/live/pedro/skype/1445.ts
+#EXTINF:-1, BeIN SPORTS 2HD  IPTVultra.com [1920x1088]
+http://149.202.205.91:8081/live/pedro/skype/2432.ts
+#EXTINF:-1, BEIN Sports 4 HD  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/284.ts
+#EXTINF:-1,  BeinHD Sports HD1  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/892.ts
+#EXTINF:-1, MBC SPORTS1  IPTVultra.com [720x576]
+http://149.202.205.91:8081/live/pedro/skype/1824.ts
+#EXTINF:-1, BeIN SPORTS 3HD  IPTVultra.com [1920x1088]
+http://149.202.205.91:8081/live/pedro/skype/2433.ts
+#EXTINF:-1,  BeinHD Sports HD6  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/886.ts
+#EXTINF:-1, BEIN Sports 1 HD  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/281.ts
+#EXTINF:-1,Dubai Sports 1  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/1864.ts
+#EXTINF:-1, TR: SPORTS TV SD TURKCELL  IPTVultra.com [864x480]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/23081.ts
+#EXTINF:-1, BEINSPORTS 6 (AR)  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/781.ts
+#EXTINF:-1, MBC SPORTS2  IPTVultra.com [720x576]
+http://149.202.205.91:8081/live/pedro/skype/1825.ts
+#EXTINF:-1, IT: RAI SPORT 1 HD  IPTVultra.com [1024x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5816.ts
+#EXTINF:-1, STAR SPORTS 2  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/11664.ts
+#EXTINF:-1, FOX SPORTS 2 HD  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16434.ts
+#EXTINF:-1, MBC SPORTS3  IPTVultra.com [720x576]
+http://149.202.205.91:8081/live/pedro/skype/1826.ts
+#EXTINF:-1, BEINSPORTS 3 SD  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20552.ts
+#EXTINF:-1,: RAI 5 HD  IPTVultra.com [624x352]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5817.ts
+#EXTINF:-1,  BeinHD Sports HD10  IPTVultra.com [1280x736]
+http://149.202.205.91:8081/live/pedro/skype/891.ts
+#EXTINF:-1, BEINSPORTS 1 SD  IPTVultra.com [1040x592]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20543.ts
+#EXTINF:-1, OSN SPORTS 3HD  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/2438.ts
+#EXTINF:-1, FOX SPORTS 6  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/17504.ts
 #EXTINF:-1, TR: BEINSPORT 2 YEDEK  IPTVultra.com [1280x720]
 http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5897.ts
-#EXTINF:-1, SKY FAMILY UK  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8710.ts
-#EXTINF:-1, NAT GEO WILD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8197.ts
-#EXTINF:-1, BLOMBERG  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/726.ts
-#EXTINF:-1, DE: DISNEY CHANNEL  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/729.ts
-#EXTINF:-1, E!  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8191.ts
-#EXTINF:-1, BBC3  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5008.ts
-#EXTINF:-1, SKY SPORT 3 HD  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5917.ts
-#EXTINF:-1, SKY NEWS HD  IPTVultra.com [832x480]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8192.ts
-#EXTINF:-1, EUROSPORT 1  IPTVultra.com [720x416]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/676.ts
-#EXTINF:-1, TSN 4  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5890.ts
-#EXTINF:-1, DE: TNT FILM FULL HD  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/659.ts
-#EXTINF:-1, NICK JR  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8201.ts
-#EXTINF:-1, SKY SPORT 4 HD  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5916.ts
-#EXTINF:-1, ITV2  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5007.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/667.ts
-#EXTINF:-1, DISNEY XD  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8203.ts
-#EXTINF:-1, NATIONAL GEOGRAPHICH  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8196.ts
-#EXTINF:-1, BBC 4 HD  IPTVultra.com [960x544]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/691.ts
-#EXTINF:-1,: CARTOON NETWORK HD TURKCELL  IPTVultra.com [864x480]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/671.ts
-#EXTINF:-1, RT DOCUMENTARY  IPTVultra.com [864x480]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5556.ts
-#EXTINF:-1, ANIMAL PLANET  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8188.ts
-#EXTINF:-1, ITV3  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5006.ts
-#EXTINF:-1, BT SPORT EUROPE  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5019.ts
-#EXTINF:-1, DISCOVERY SCIENCE  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8186.ts
-#EXTINF:-1,: BLOOMBERGHT SD  IPTVultra.com [640x368]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/673.ts
-#EXTINF:-1, ITV4  IPTVultra.com [912x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5005.ts
-#EXTINF:-1, DISCOVERY  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8195.ts
-#EXTINF:-1, BLOOMBERG  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8210.ts
-#EXTINF:-1, BT Sport2  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5919.ts
-#EXTINF:-1, SKY MOVIES FAMILY HD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/17793.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8204.ts
-#EXTINF:-1, TLC  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8189.ts
-#EXTINF:-1, SKY SPORT F1  IPTVultra.com [880x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8727.ts
-#EXTINF:-1, SKY MOVIES ACTION & ADVENTURE  IPTVultra.com [688x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8709.ts
-#EXTINF:-1, HORROR CHANNEL  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8678.ts
-#EXTINF:-1, SKY MOVIES DISNEY  IPTVultra.com [688x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8701.ts
-#EXTINF:-1, SKY LIVING UK  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8681.ts
-#EXTINF:-1, Sky ONE  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8680.ts
-#EXTINF:-1, MTV  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8184.ts
-#EXTINF:-1, SKY GOOD FOOD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8697.ts
-#EXTINF:-1, RTE TWO UK  IPTVultra.com [688x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8683.ts
-#EXTINF:-1, TRUE MOVIES 2  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8711.ts
-#EXTINF:-1, SYFY  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8183.ts
-#EXTINF:-1, DISCOVERY CHANNEL  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8723.ts
-#EXTINF:-1, SETANTA SPORT IRLAND 1  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8743.ts
-#EXTINF:-1, SKY MOVIES COMEDY HD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8708.ts
-#EXTINF:-1, COMEDY CENTRAL  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8702.ts
-#EXTINF:-1, DISCOVERY HISTORY  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8198.ts
-#EXTINF:-1, HISTORY CHANNEL  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8722.ts
-#EXTINF:-1, 5 USA  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8685.ts
-#EXTINF:-1, NICK JUNIOR  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/13194.ts
-#EXTINF:-1, NICK  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21995.ts
-#EXTINF:-1, MOVIES   4 MEN UK  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8716.ts
-#EXTINF:-1, BT SPORT EXTRA 1  IPTVultra.com [704x400]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5914.ts
-#EXTINF:-1, LIVERPOOL FC  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8738.ts
-#EXTINF:-1, MUTV  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8737.ts
-#EXTINF:-1, GOLD UK  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8686.ts
-#EXTINF:-1, NICK TOONS  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8202.ts
-#EXTINF:-1, OSN FOOD NETWORK  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21846.ts
-#EXTINF:-1, ESPN UK  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8741.ts
-#EXTINF:-1, SKY MOVIES DRAMA & ROMANCE  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8707.ts
-#EXTINF:-1, SKY ATLANTIC  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8699.ts
-#EXTINF:-1, CHANNEL 4  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8675.ts
-#EXTINF:-1, FILME 4 UK  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8715.ts
-#EXTINF:-1, MORE 4  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8689.ts
-#EXTINF:-1, BT Sport1  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5920.ts
-#EXTINF:-1, DAVE UK  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8688.ts
-#EXTINF:-1, CBS DRAMA  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8693.ts
-#EXTINF:-1, ALIBI  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8690.ts
-#EXTINF:-1, ITV BE  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8673.ts
-#EXTINF:-1, CBN  IPTVultra.com [640x480]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21844.ts
-#EXTINF:-1,  E4 UK  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8684.ts
-#EXTINF:-1, SYFY UK  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8714.ts
-#EXTINF:-1, CARTOON NETWORK  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8718.ts
-#EXTINF:-1, SKY MOVIES SCI FI & HORROR  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8704.ts
-#EXTINF:-1, SKY MOVIES SHOWCASE  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21987.ts
-#EXTINF:-1, QUEST  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/22010.ts
-#EXTINF:-1, SKY MOVIE SHOWCASE  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8208.ts
-#EXTINF:-1, UK: HISTORY  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20076.ts
-#EXTINF:-1, UK: MOVIES 4 MEN  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20066.ts
-#EXTINF:-1, DISCOVERY SCIENCE UK  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8724.ts
-#EXTINF:-1, FIVE  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8692.ts
-#EXTINF:-1, BT SPORT 1  IPTVultra.com [1280x736]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/13352.ts
-#EXTINF:-1, CNN HD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8194.ts
-#EXTINF:-1, EUROSPORT 2 UK  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8740.ts
-#EXTINF:-1, SKY MOVIES ATLANTIC  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21988.ts
-#EXTINF:-1, SKY COMEDY HD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/13354.ts
-#EXTINF:-1, UK: MTV MUSIC  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20071.ts
-#EXTINF:-1, SKY SCI FI HORROR  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21992.ts
-#EXTINF:-1, RTE 1  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/22008.ts
-#EXTINF:-1, SKY SPORT 5 HD  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21991.ts
-#EXTINF:-1, MOVIES ACTION HD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12826.ts
-#EXTINF:-1, CBS ACTION  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8721.ts
-#EXTINF:-1, RTE ONE UK  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8682.ts
-#EXTINF:-1, CHANNEL 5  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8674.ts
-#EXTINF:-1, SKY ACTION  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21994.ts
-#EXTINF:-1, SKY SPORT 2 HD  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21989.ts
-#EXTINF:-1, BBC2  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5009.ts
-#EXTINF:-1, SKY MOVIES PREMIERE UK  IPTVultra.com [688x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8705.ts
-#EXTINF:-1, SKY GREATS HD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21940.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC WILD  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8725.ts
-#EXTINF:-1, PREMIERE SPORT  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/12835.ts
-#EXTINF:-1, BT SPORT 2  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/13353.ts
-#EXTINF:-1, SKY MOVIES SELECT  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/13355.ts
-#EXTINF:-1, UK: MTV ROCK  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20072.ts
-#EXTINF:-1, SKY SPORT 1 HD  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21990.ts
-#EXTINF:-1,: CAPITAL TV  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21271.ts
-#EXTINF:-1, UK: AT THE RACES ST  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20079.ts
-#EXTINF:-1, UK: DISCOVERY  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20080.ts
-#EXTINF:-1, UK: MTV BASE  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20067.ts
-#EXTINF:-1, 3E  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8691.ts
-#EXTINF:-1, UK: MTV  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20070.ts
-#EXTINF:-1, NICKTOONS  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8719.ts
-#EXTINF:-1, UK: SONY SAB  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20077.ts
-#EXTINF:-1, CTH STADIUM 5 HD  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21801.ts
-#EXTINF:-1, CTH STADIUM X HD  IPTVultra.com [1920x1088]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/21803.ts
-#EXTINF:-1, BABY TV  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/13173.ts
-#EXTINF:-1, UK: FOX  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20081.ts
-#EXTINF:-1, UK: DMAX  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20075.ts
-#EXTINF:-1, RACING UK  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8744.ts
-#EXTINF:-1, UK: LIFETIME  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20074.ts
-#EXTINF:-1, UK: TLC  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20082.ts
-#EXTINF:-1, UK: VIVA  IPTVultra.com [704x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20069.ts
-#EXTINF:-1, UK: FOX NEWS  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20078.ts
-#EXTINF:-1, ESPN UK  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/741.ts
-#EXTINF:-1, UK: WATCH  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20073.ts
-#EXTINF:-1, 3e  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4955.ts
-#EXTINF:-1, 4 Seven  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4957.ts
-#EXTINF:-1, BBC 2 HD  IPTVultra.com [912x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/4967.ts
-#EXTINF:-1, Alibi  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4961.ts
-#EXTINF:-1, BBC Entertainment  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4970.ts
-#EXTINF:-1, 5 Star  IPTVultra.com [880x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/4958.ts
-#EXTINF:-1, BBC News  IPTVultra.com [720x416]
-http://185.71.66.36:13884/live/valentina1/valentina2/4971.ts
-#EXTINF:-1, 4 Music  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4956.ts
-#EXTINF:-1, Baby TV  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4965.ts
-#EXTINF:-1, Boomerang  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4975.ts
-#EXTINF:-1, BT Sport 2  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4978.ts
-#EXTINF:-1, 5 USA  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4959.ts
-#EXTINF:-1, Cartoon Network  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4983.ts
-#EXTINF:-1, Challenge  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4989.ts
-#EXTINF:-1, CBS Reality  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4988.ts
-#EXTINF:-1, Food Network  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5021.ts
-#EXTINF:-1, CBS Action  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4986.ts
-#EXTINF:-1, Channel 4  IPTVultra.com [720x592]
-http://185.71.66.36:13884/live/valentina1/valentina2/4990.ts
-#EXTINF:-1, Discovery Turbo  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5003.ts
-#EXTINF:-1, Disney Junior  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5005.ts
-#EXTINF:-1, DW  IPTVultra.com [720x400]
-http://185.71.66.36:13884/live/valentina1/valentina2/5009.ts
-#EXTINF:-1, BT Sport 3  IPTVultra.com [1280x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/4979.ts
-#EXTINF:-1, Discovery History  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5000.ts
-#EXTINF:-1, Discovery Shed  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5002.ts
-#EXTINF:-1, Disney Channel  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5004.ts
-#EXTINF:-1, ITV Be  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5042.ts
-#EXTINF:-1, Gold  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5025.ts
+#EXTINF:-1, Fox Sports 4  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5821.ts
+#EXTINF:-1, PTV SPORTS  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/11962.ts
+#EXTINF:-1, IT: RAI SPORT 2 HD  IPTVultra.com [704x400]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5815.ts
+#EXTINF:-1,BeinSports News HD  IPTVultra.com [640x480]
+http://149.202.205.91:8081/live/pedro/skype/1898.ts
+#EXTINF:-1, BEIN Sports 3 HD  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/283.ts
+#EXTINF:-1,  BeinHD Sports HD5  IPTVultra.com [1120x640]
+http://149.202.205.91:8081/live/pedro/skype/887.ts
+#EXTINF:-1, STAR SPORTS 1  IPTVultra.com [704x400]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/11663.ts
+#EXTINF:-1,DhabiSports2  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/1991.ts
+#EXTINF:-1, MBC SPORTS 4  IPTVultra.com [720x576]
+http://149.202.205.91:8081/live/pedro/skype/2127.ts
+#EXTINF:-1,; KANAL 24  IPTVultra.com [640x368]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/783.ts
+#EXTINF:-1, BEINSPORTS 5 (AR)  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/780.ts
+#EXTINF:-1, BeIN SPORTS 1HD  IPTVultra.com [1920x1088]
+http://149.202.205.91:8081/live/pedro/skype/2431.ts
+#EXTINF:-1, BEINSPORTS 1  IPTVultra.com [1040x592]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20542.ts
+#EXTINF:-1, FR: BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20548.ts
+#EXTINF:-1,: SPORTS TV  IPTVultra.com [720x496]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/3427.ts
+#EXTINF:-1, BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20553.ts
+#EXTINF:-1, CANAL  SPORTS HD  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8864.ts
+#EXTINF:-1, BEINSPORTS 2 HD  IPTVultra.com [960x544]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20550.ts
+#EXTINF:-1, BEINSPORTS 7 (AR)  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/782.ts
+#EXTINF:-1, MBC Pro Sports 2 HD  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5631.ts
+#EXTINF:-1, STAR SPORTS 3  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/11665.ts
+#EXTINF:-1, FR: BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20544.ts
+#EXTINF:-1, Dubai Sports  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/7390.ts
+#EXTINF:-1, FOX SPORTS 1  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/16435.ts
+#EXTINF:-1, FR: BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/548.ts
+#EXTINF:-1, BEINSPORTS 3 SD  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/552.ts
+#EXTINF:-1, Kombat Sports  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20752.ts
+#EXTINF:-1, MBC Pro Sports 1 HD  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5630.ts
+#EXTINF:-1, BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/553.ts
+#EXTINF:-1,  BeinHD Sports HD8  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/884.ts
+#EXTINF:-1, FOX SPORTS 6  IPTVultra.com [720x576]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/504.ts
+#EXTINF:-1,Sky Sports 3 HD  IPTVultra.com [1280x720]
+http://163.172.156.136:8000/live/malik/malik/204.ts
+#EXTINF:-1, BEINSPORTS 1 SD  IPTVultra.com [1040x592]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/543.ts
+#EXTINF:-1, FR: BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/544.ts
+#EXTINF:-1,  BeinHD Sports HD7  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/885.ts
+#EXTINF:-1,Fox Sports HD  IPTVultra.com [1280x736]
+http://185.71.66.36:13884/live/valentina1/valentina2/60.ts
+#EXTINF:-1, Bein Sports 3  IPTVultra.com [854x480]
+http://185.71.66.36:13884/live/valentina1/valentina2/5144.ts
+#EXTINF:-1, OSN SPORTS 1HD  IPTVultra.com [864x480]
+http://149.202.205.91:8081/live/pedro/skype/2437.ts
+#EXTINF:-1,Sky Sports 4 HD  IPTVultra.com [1280x736]
+http://163.172.156.136:8000/live/malik/malik/205.ts
+#EXTINF:-1, Bein Sports 2 HD  IPTVultra.com [960x544]
+http://185.71.66.36:13884/live/valentina1/valentina2/4848.ts
+#EXTINF:-1, Bein Sports 3 HD  IPTVultra.com [1280x720]
+http://185.71.66.36:13884/live/valentina1/valentina2/4849.ts
+#EXTINF:-1, Bein Sports 3 HD  IPTVultra.com [1280x720]
+http://185.71.66.36:13884/live/valentina1/valentina2/5145.ts
+#EXTINF:-1, Bein Sports HD  IPTVultra.com [720x576]
+http://185.71.66.36:13884/live/valentina1/valentina2/5150.ts
+#EXTINF:-1, Bein Sports 8  IPTVultra.com [1376x768]
+http://185.71.66.36:13884/live/valentina1/valentina2/5134.ts
+#EXTINF:-1, Bein Sports 7 HD  IPTVultra.com [1280x720]
+http://185.71.66.36:13884/live/valentina1/valentina2/5137.ts
+#EXTINF:-1, Bein Sports 1 HD  IPTVultra.com [1280x720]
+http://185.71.66.36:13884/live/valentina1/valentina2/4847.ts
+#EXTINF:-1, Bein Sports 1 HD  IPTVultra.com [1280x736]
+http://185.71.66.36:13884/live/valentina1/valentina2/5149.ts
 #EXTINF:-1, EirSports 2 HD  IPTVultra.com [1296x720]
 http://185.71.66.36:13884/live/valentina1/valentina2/5015.ts
-#EXTINF:-1, Channel 5  IPTVultra.com [1280x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/4991.ts
-#EXTINF:-1, Home  1  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5031.ts
-#EXTINF:-1, ITV  1  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5038.ts
-#EXTINF:-1, Eir Sport 1  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5013.ts
-#EXTINF:-1, E4  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5011.ts
-#EXTINF:-1, History  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5028.ts
-#EXTINF:-1, ITV 4 HD  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5041.ts
-#EXTINF:-1, EirSports 2  IPTVultra.com [1280x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5014.ts
-#EXTINF:-1, Flava  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5020.ts
-#EXTINF:-1, Discovery  1  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/4998.ts
-#EXTINF:-1, Drama  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5008.ts
-#EXTINF:-1, Fox News  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5023.ts
-#EXTINF:-1, Horse & Country  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5034.ts
-#EXTINF:-1, History 2  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5029.ts
-#EXTINF:-1, Home  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5030.ts
-#EXTINF:-1, Movies4men  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5050.ts
-#EXTINF:-1, ITV Encore  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5043.ts
-#EXTINF:-1, Good Food  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5026.ts
-#EXTINF:-1, Electro Sound  IPTVultra.com [1280x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5016.ts
-#EXTINF:-1, London Live  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5047.ts
-#EXTINF:-1, ID  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5035.ts
-#EXTINF:-1, ITV 2 HD  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5039.ts
-#EXTINF:-1, MTV Dance  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5054.ts
-#EXTINF:-1, ITV  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5037.ts
-#EXTINF:-1, Kiss TV  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5045.ts
-#EXTINF:-1, MTV Base  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5052.ts
-#EXTINF:-1, MTV Hits  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5055.ts
-#EXTINF:-1, More 4  IPTVultra.com [864x480]
-http://185.71.66.36:13884/live/valentina1/valentina2/5048.ts
-#EXTINF:-1, Pick  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5065.ts
-#EXTINF:-1, MTV  IPTVultra.com [720x592]
-http://185.71.66.36:13884/live/valentina1/valentina2/5051.ts
-#EXTINF:-1, RTE 1  IPTVultra.com [688x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5072.ts
-#EXTINF:-1, Motors TV  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5049.ts
-#EXTINF:-1, Nickelodeon  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5064.ts
-#EXTINF:-1, MTV Live HD  IPTVultra.com [1088x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5056.ts
 #EXTINF:-1, Sky Sports 1  IPTVultra.com [720x576]
 http://185.71.66.36:13884/live/valentina1/valentina2/5094.ts
-#EXTINF:-1, Real Lives  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5069.ts
-#EXTINF:-1, National Geographic  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5061.ts
-#EXTINF:-1, RTE 2  IPTVultra.com [688x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5073.ts
-#EXTINF:-1, Nick Jr  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5062.ts
-#EXTINF:-1, MTV Music  IPTVultra.com [640x528]
-http://185.71.66.36:13884/live/valentina1/valentina2/5057.ts
-#EXTINF:-1, Press TV  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5066.ts
-#EXTINF:-1, Racing UK  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5068.ts
-#EXTINF:-1, Quest  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5067.ts
-#EXTINF:-1, Really  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5070.ts
-#EXTINF:-1, LFC  IPTVultra.com [1280x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5046.ts
-#EXTINF:-1, Sky 2  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5078.ts
-#EXTINF:-1, RT HD  IPTVultra.com [1280x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5071.ts
-#EXTINF:-1, True Drama  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5111.ts
-#EXTINF:-1, Sky Living  IPTVultra.com [1280x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5081.ts
-#EXTINF:-1, Tiny Pop  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5108.ts
-#EXTINF:-1, Sky 1  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5077.ts
-#EXTINF:-1, TLC  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5109.ts
-#EXTINF:-1, Sky Movies ScFi/Horror HD  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5089.ts
-#EXTINF:-1, Sky Arts  IPTVultra.com [1280x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5079.ts
-#EXTINF:-1, Sky Sports 5  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5098.ts
-#EXTINF:-1, Sky News  IPTVultra.com [880x720]
-http://185.71.66.36:13884/live/valentina1/valentina2/5093.ts
-#EXTINF:-1, Sky Sports 3  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5096.ts
-#EXTINF:-1, Sony Entertainment TV  IPTVultra.com [1280x736]
-http://185.71.66.36:13884/live/valentina1/valentina2/5101.ts
-#EXTINF:-1, Spike  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5103.ts
+#EXTINF:-1, EirSports 2  IPTVultra.com [1280x720]
+http://185.71.66.36:13884/live/valentina1/valentina2/5014.ts
+#EXTINF:-1,Bein Sport 1 HD   Arab  IPTVultra.com [1280x720]
+http://151.80.35.29:25461/live/Brahim-BEIN/qWqTn9Vtrl/1454.ts
+#EXTINF:-1,Bein Sport 2 HD   Arab  IPTVultra.com [1280x720]
+http://151.80.35.29:25461/live/Brahim-BEIN/qWqTn9Vtrl/1455.ts
+#EXTINF:-1,Fox Sports SD  IPTVultra.com [1280x720]
+http://192.99.71.236:8080/live/csmanaus/csmanaus/5333.ts
+#EXTINF:-1,ALL SPORTS TV  IPTVultra.com [864x480]
+http://192.99.71.236:8080/live/csmanaus/csmanaus/5338.ts
+#EXTINF:-1, TR: SPORTS TV SD TURKCELL  IPTVultra.com [864x480]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/23081.ts
 #EXTINF:-1, Sky Sports News HQ  IPTVultra.com [704x576]
 http://185.71.66.36:13884/live/valentina1/valentina2/5100.ts
-#EXTINF:-1, Watch  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5121.ts
-#EXTINF:-1, True Movies 2  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5114.ts
-#EXTINF:-1, SyFy  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5104.ts
-#EXTINF:-1, The Vault  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5107.ts
-#EXTINF:-1, VH1 Classic  IPTVultra.com [704x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5118.ts
-#EXTINF:-1, True Entertainment  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5112.ts
-#EXTINF:-1, Sky Movie Premiere  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11545.ts
-#EXTINF:-1, Yesterday  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5122.ts
-#EXTINF:-1, Sky Movie Family  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11543.ts
-#EXTINF:-1, Vintage TV  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5119.ts
-#EXTINF:-1, UTV  IPTVultra.com [720x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5116.ts
-#EXTINF:-1, Action HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/24135.ts
-#EXTINF:-1, True Movies  IPTVultra.com [544x576]
-http://185.71.66.36:13884/live/valentina1/valentina2/5113.ts
-#EXTINF:-1, Drama & Romance HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/24132.ts
-#EXTINF:-1, Sky Movie Action  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11540.ts
-#EXTINF:-1, Sky Great Movies  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11548.ts
-#EXTINF:-1, Sky Sports 3 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/11557.ts
-#EXTINF:-1, Sky Sports 4 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/11559.ts
-#EXTINF:-1, Movies 4 Men  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/11527.ts
-#EXTINF:-1, Disney HD  IPTVultra.com [1920x1088]
-http://213.136.90.30:8000/live/renzo/renzo/24133.ts
-#EXTINF:-1, Sky Movies Disney  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/22375.ts
-#EXTINF:-1, Crime & Thriller HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/25391.ts
-#EXTINF:-1, Sky Sports 2 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/15207.ts
-#EXTINF:-1, True Movies 1  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11568.ts
-#EXTINF:-1, Sky Sports 2  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/20047.ts
-#EXTINF:-1, Sky Sports 1  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/20046.ts
-#EXTINF:-1, Sky Sports 3  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/20048.ts
-#EXTINF:-1, Sky Movie Select  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11547.ts
-#EXTINF:-1, BT Sport ESPN  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/11487.ts
-#EXTINF:-1, Eir Sports 2  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/24130.ts
-#EXTINF:-1, Premier Sports HD  IPTVultra.com [1920x1088]
-http://213.136.90.30:8000/live/renzo/renzo/15228.ts
-#EXTINF:-1, Sky Sports 1 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/18967.ts
-#EXTINF:-1, Sky Movie Thriller  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11549.ts
-#EXTINF:-1, Sky Sports News  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/15216.ts
-#EXTINF:-1, Sky Movie Scfi/ Horror  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11546.ts
-#EXTINF:-1, Eir Sports 1  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/24131.ts
-#EXTINF:-1, Sky Movie Comedy  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11541.ts
-#EXTINF:-1, Sky Sports News HD  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/25392.ts
-#EXTINF:-1, BT Sports Extra 1  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18009.ts
-#EXTINF:-1, True Movies 2  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11569.ts
-#EXTINF:-1, Comedy HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/24134.ts
-#EXTINF:-1, BT Sport 3 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/15222.ts
-#EXTINF:-1, Sky Movie Drama  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11542.ts
-#EXTINF:-1, Sky Sports F1 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/15603.ts
-#EXTINF:-1, Sky Sports 5 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/11560.ts
-#EXTINF:-1, BT Sport 2  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/27069.ts
-#EXTINF:-1, Chelsea FC  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/11495.ts
-#EXTINF:-1, BT Sports 1  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/11489.ts
-#EXTINF:-1, Eurosport 2  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/15541.ts
-#EXTINF:-1, Eurosport 1 HD  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/11510.ts
-#EXTINF:-1, Liverpool FC  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/11523.ts
-#EXTINF:-1, Motors TV  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/15561.ts
-#EXTINF:-1, Racing tv  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/12759.ts
-#EXTINF:-1, MUTV   Live HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/13257.ts
-#EXTINF:-1, BT Sport 2 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/18212.ts
-#EXTINF:-1, ITV Choice  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/18753.ts
-#EXTINF:-1, At The Races +  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11476.ts
-#EXTINF:-1, BT Sport 1 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/15218.ts
-#EXTINF:-1, ITV Two London  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18749.ts
-#EXTINF:-1, Boxnation  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/15506.ts
-#EXTINF:-1, Sky One  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/15591.ts
-#EXTINF:-1, ITV One London  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/18748.ts
-#EXTINF:-1,Sky IT   Sky Sports 24   MT  IPTVultra.com [1280x736]
-http://213.136.90.30:8000/live/renzo/renzo/2.ts
-#EXTINF:-1, TLC  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/20994.ts
-#EXTINF:-1, BBC Two London  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/15499.ts
-#EXTINF:-1, ITV Three London HD  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18750.ts
-#EXTINF:-1, Fox  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/15545.ts
-#EXTINF:-1, CBS Reality  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/14229.ts
-#EXTINF:-1, Sky One HD  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/23037.ts
-#EXTINF:-1, ITV Encore  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18752.ts
-#EXTINF:-1, Comedy Central  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/14230.ts
-#EXTINF:-1, ITV Be  IPTVultra.com [896x512]
-http://213.136.90.30:8000/live/renzo/renzo/14656.ts
-#EXTINF:-1, Comedy Central Xtra  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/15523.ts
-#EXTINF:-1, BBC One London  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18771.ts
-#EXTINF:-1, E4  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/22611.ts
-#EXTINF:-1, ITV Four London  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18751.ts
-#EXTINF:-1, Lifetime HD  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/24136.ts
-#EXTINF:-1, CBBC  IPTVultra.com [960x544]
-http://213.136.90.30:8000/live/renzo/renzo/21823.ts
-#EXTINF:-1, E Entertainment  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/9539.ts
-#EXTINF:-1, Sky Atlantic  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/15579.ts
-#EXTINF:-1, BBC Three London  IPTVultra.com [960x544]
-http://213.136.90.30:8000/live/renzo/renzo/15500.ts
-#EXTINF:-1, CBS Drama  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11492.ts
-#EXTINF:-1, CBS Action  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11491.ts
-#EXTINF:-1, Sky Two  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/14647.ts
-#EXTINF:-1, Real Lives  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/18762.ts
-#EXTINF:-1, BBC One HD  IPTVultra.com [1920x1088]
-http://213.136.90.30:8000/live/renzo/renzo/7901.ts
-#EXTINF:-1, Channel 5 HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/7079.ts
-#EXTINF:-1, SyFy +  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18758.ts
-#EXTINF:-1, SyFy  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/14413.ts
-#EXTINF:-1, National Geo Wild HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/23035.ts
-#EXTINF:-1, Challenge  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/18763.ts
-#EXTINF:-1, Food Network  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11513.ts
-#EXTINF:-1, Crime Investigation  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/13731.ts
-#EXTINF:-1, Watch  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18761.ts
-#EXTINF:-1, Nat Geo Wild  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/14660.ts
-#EXTINF:-1, Disney Channel  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/12591.ts
-#EXTINF:-1, Alibi (B)  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18760.ts
-#EXTINF:-1, Cartoon Network  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/15514.ts
-#EXTINF:-1, Discovery History  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11500.ts
-#EXTINF:-1, More 4  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/15560.ts
-#EXTINF:-1, National Geographic  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11530.ts
-#EXTINF:-1, Channel 4 HD  IPTVultra.com [720x592]
-http://213.136.90.30:8000/live/renzo/renzo/11493.ts
-#EXTINF:-1, Sky Living  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/11539.ts
-#EXTINF:-1, Investigation Discovery  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11501.ts
-#EXTINF:-1, Discovery  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/14659.ts
-#EXTINF:-1, Yesterday  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/18759.ts
-#EXTINF:-1, Sky Arts  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/15721.ts
-#EXTINF:-1, Dmax  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11507.ts
-#EXTINF:-1, Discovery HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/23038.ts
-#EXTINF:-1, Boomerang  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/15505.ts
-#EXTINF:-1, History 2  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/18764.ts
-#EXTINF:-1, Home and Health  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/15551.ts
-#EXTINF:-1, Nick Junior  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/15260.ts
-#EXTINF:-1, Discovery Science  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/13695.ts
-#EXTINF:-1, Discovery Shed  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/15530.ts
-#EXTINF:-1, Travel Channel  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18202.ts
-#EXTINF:-1, Disney Junior  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/14650.ts
-#EXTINF:-1, MTV Base  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/17996.ts
-#EXTINF:-1, National Geographic HD  IPTVultra.com [1920x1088]
-http://213.136.90.30:8000/live/renzo/renzo/23034.ts
-#EXTINF:-1, Discovery Turbo  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/11503.ts
-#EXTINF:-1, History Channel  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/11516.ts
-#EXTINF:-1, Fox News  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/18754.ts
-#EXTINF:-1, Nick Toons  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/22377.ts
-#EXTINF:-1, Animal Planet  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/11475.ts
-#EXTINF:-1, MTV Rocks  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/17997.ts
-#EXTINF:-1, ID  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/18765.ts
-#EXTINF:-1, MTV Hits HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/17991.ts
-#EXTINF:-1, MTV Music  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/17999.ts
-#EXTINF:-1, Crime & Investigation  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/18766.ts
-#EXTINF:-1, MTV Rocks HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/17993.ts
-#EXTINF:-1, Sky News  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/11550.ts
-#EXTINF:-1, VIVA the Hits!  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/18002.ts
-#EXTINF:-1, Nicktoons  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/15570.ts
-#EXTINF:-1, Sky Arts HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/23036.ts
-#EXTINF:-1, MTV Dance HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/17994.ts
-#EXTINF:-1, Baby TV  IPTVultra.com [544x576]
-http://213.136.90.30:8000/live/renzo/renzo/13263.ts
-#EXTINF:-1, VH1  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/18000.ts
-#EXTINF:-1, Nick Jr 2  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/11531.ts
-#EXTINF:-1, Nick UK  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/22376.ts
-#EXTINF:-1, Disney XD  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/15534.ts
-#EXTINF:-1, MTV Hits!  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/17995.ts
-#EXTINF:-1, MTV Dance  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/17998.ts
-#EXTINF:-1, MTV Base HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/17992.ts
-#EXTINF:-1, Bloomberg News  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/18755.ts
-#EXTINF:-1, CATHOLIC TV  IPTVultra.com [1280x720]
-http://5.196.79.166:3500/live/musti854/kara987s/7781.ts
-#EXTINF:-1, ABC News  IPTVultra.com [640x368]
-http://213.136.90.30:8000/live/renzo/renzo/18757.ts
-#EXTINF:-1, CBS 47 NEWS  IPTVultra.com [640x360]
-http://5.196.79.166:3500/live/musti854/kara987s/7785.ts
-#EXTINF:-1, WSOC 9 NEWS  IPTVultra.com [640x360]
-http://5.196.79.166:3500/live/musti854/kara987s/7808.ts
-#EXTINF:-1, Euronews  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/25390.ts
-#EXTINF:-1, CNN  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/15521.ts
-#EXTINF:-1, CBS NEWS  IPTVultra.com [960x540]
-http://5.196.79.166:3500/live/musti854/kara987s/7786.ts
-#EXTINF:-1, DISCOVERY  IPTVultra.com [640x360]
-http://5.196.79.166:3500/live/musti854/kara987s/9206.ts
-#EXTINF:-1, Sky News HD  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/23033.ts
-#EXTINF:-1, Bloomberg News (B)  IPTVultra.com [720x576]
-http://213.136.90.30:8000/live/renzo/renzo/11483.ts
-#EXTINF:-1, Capital Tv  IPTVultra.com [1280x720]
-http://213.136.90.30:8000/live/renzo/renzo/15716.ts
-#EXTINF:-1, France 24 English  IPTVultra.com [1024x576]
-http://213.136.90.30:8000/live/renzo/renzo/18756.ts
-#EXTINF:-1, BBC World News  IPTVultra.com [704x576]
-http://213.136.90.30:8000/live/renzo/renzo/15503.ts
-#EXTINF:-1, BBC NEWS  WORLD  IPTVultra.com [720x576]
-http://5.196.79.166:3500/live/musti854/kara987s/8424.ts
-#EXTINF:-1,UKR: 1+1  IPTVultra.com [1024x576]
-http://5.196.79.166:3500/live/musti854/kara987s/10010.ts
-#EXTINF:-1,UKR: 112 NEWS  IPTVultra.com [1280x720]
-http://5.196.79.166:3500/live/musti854/kara987s/8997.ts
-#EXTINF:-1,UKR: News Television  IPTVultra.com [640x480]
-http://5.196.79.166:3500/live/musti854/kara987s/10504.ts
-#EXTINF:-1, SKY SPORT F1 HD  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/4681.ts
-#EXTINF:-1, DING  IPTVultra.com [1280x720]
-http://5.196.79.166:3500/live/musti854/kara987s/8398.ts
-#EXTINF:-1, SKY SPORT 2  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/646.ts
-#EXTINF:-1, SKY MOVIES FAMILY HD  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/17793.ts
-#EXTINF:-1, UK: TVSN  IPTVultra.com [640x368]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/18599.ts
-#EXTINF:-1,  BBC WORLD NEWS  IPTVultra.com [640x480]
-http://5.196.79.166:3500/live/musti854/kara987s/11606.ts
-#EXTINF:-1, BBC 1 HD  IPTVultra.com [1024x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/17778.ts
-#EXTINF:-1, BBC WORLD HD  IPTVultra.com [1024x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/17781.ts
-#EXTINF:-1, UK: AL JAZEERA HD  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/1190.ts
-#EXTINF:-1, SKY MOVIE ATLANTIC  IPTVultra.com [1920x1088]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/659.ts
-#EXTINF:-1, BBC 3 HD  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/692.ts
-#EXTINF:-1, EUROSPORT 1  IPTVultra.com [720x416]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/676.ts
-#EXTINF:-1, NBA HD  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/11034.ts
-#EXTINF:-1, ITV 2  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/17794.ts
-#EXTINF:-1, ITV 1 HD  IPTVultra.com [1920x1088]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/673.ts
-#EXTINF:-1, BLOMBERG  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/726.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/667.ts
-#EXTINF:-1, BBC NEWS HD  IPTVultra.com [720x416]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/17780.ts
-#EXTINF:-1, BBC3  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5008.ts
-#EXTINF:-1, SKY SPORT 1  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/647.ts
-#EXTINF:-1, TRUE MOVIES 1  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/639.ts
-#EXTINF:-1, CHELSEA TV  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20068.ts
-#EXTINF:-1, ESPN HD  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/11033.ts
-#EXTINF:-1, SKY SPORT 5  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/643.ts
-#EXTINF:-1, HISTORY CHANNEL 2  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/669.ts
-#EXTINF:-1, SKY CBS REALITY  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/660.ts
-#EXTINF:-1, BBC 4 HD  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/691.ts
-#EXTINF:-1, BBC 2 HD  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/17779.ts
-#EXTINF:-1, DE: DISNEY CHANNEL  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/729.ts
-#EXTINF:-1, BBC1  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5010.ts
-#EXTINF:-1, TR: DISCOVERY CHANNEL HD  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/671.ts
-#EXTINF:-1, DISNEY CHANNEL  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/680.ts
-#EXTINF:-1, ITV2  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5007.ts
-#EXTINF:-1, ITV3  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5006.ts
-#EXTINF:-1, TSN 1  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5893.ts
-#EXTINF:-1, TSN 4  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5890.ts
-#EXTINF:-1, BBC2  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5009.ts
+#EXTINF:-1, FR: BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20544.ts
+#EXTINF:-1, SKY SPORTS F1 HD  IPTVultra.com [1280x720]
+http://46.105.115.25:8000/live/antonio/antonio/1253.ts
+#EXTINF:-1, BEINSPORTS 1 SD  IPTVultra.com [1120x640]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20543.ts
+#EXTINF:-1,Bein Sport 3 HD   Arab  IPTVultra.com [1280x720]
+http://151.80.35.29:25461/live/Brahim-BEIN/qWqTn9Vtrl/1456.ts
+#EXTINF:-1, Sky Sports 5  IPTVultra.com [704x576]
+http://185.71.66.36:13884/live/valentina1/valentina2/5098.ts
+#EXTINF:-1, BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/6254.ts
+#EXTINF:-1, Sky Sports 3  IPTVultra.com [720x576]
+http://185.71.66.36:13884/live/valentina1/valentina2/5096.ts
+#EXTINF:-1, FR: BEINSPORTS 2 HD  IPTVultra.com [1040x592]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20549.ts
+#EXTINF:-1, BEINSPORTS 2 HD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20550.ts
+#EXTINF:-1, BEINSPORTS 1  IPTVultra.com [1040x592]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20542.ts
+#EXTINF:-1, FR: BEINSPORTS 3 HD  IPTVultra.com [1920x1088]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20548.ts
+#EXTINF:-1, BEINSPORTS 3  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20547.ts
+#EXTINF:-1, BEINSPORTS 2 SD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20551.ts
+#EXTINF:-1, BEINSPORTS 6 (AR)  IPTVultra.com [1280x736]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/781.ts
 #EXTINF:-1, FOX SPORTS 2 HD  IPTVultra.com [960x720]
 http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5897.ts
-#EXTINF:-1, BT SPORT EUROPE  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5019.ts
-#EXTINF:-1, SKY MOVIE SHOWCASE  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8208.ts
-#EXTINF:-1, SKY SPORT 3 HD  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5917.ts
-#EXTINF:-1, TSN 2  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5892.ts
-#EXTINF:-1, SKY SPORT 4 HD  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5916.ts
-#EXTINF:-1, SETANTA SPORT IRELAND  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5002.ts
-#EXTINF:-1, E!  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8191.ts
-#EXTINF:-1, RT DOCUMENTARY  IPTVultra.com [864x480]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5556.ts
-#EXTINF:-1, SKY ARTS  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8190.ts
-#EXTINF:-1, NAT GEO WILD  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8197.ts
-#EXTINF:-1, BT Sport1  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5920.ts
-#EXTINF:-1, BLOOMBERG  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8210.ts
-#EXTINF:-1, DISCOVERY TURBO  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8185.ts
-#EXTINF:-1, NICK JR  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8201.ts
-#EXTINF:-1, BT SPORT EXTRA 1  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5914.ts
-#EXTINF:-1, DISCOVERY SCIENCE  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8186.ts
-#EXTINF:-1, SKY CARTOON NETWORK  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8205.ts
-#EXTINF:-1, SYFY UK  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8714.ts
-#EXTINF:-1, TLC  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8189.ts
-#EXTINF:-1, DISNEY XD  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8203.ts
-#EXTINF:-1, NICK TOONS  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8202.ts
-#EXTINF:-1, MTV  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8184.ts
-#EXTINF:-1, SKY SPORT F1  IPTVultra.com [880x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8727.ts
-#EXTINF:-1, Sky ONE  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8680.ts
-#EXTINF:-1, TRUE MOVIES 2  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8711.ts
-#EXTINF:-1, SYFY  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8183.ts
-#EXTINF:-1, SKY MOVIES ACTION & ADVENTURE  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8709.ts
-#EXTINF:-1, DISNEY MOVIES  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8199.ts
-#EXTINF:-1, CNN HD  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8194.ts
-#EXTINF:-1, DISCOVERY  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8195.ts
-#EXTINF:-1, ANIMAL PLANET  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8188.ts
-#EXTINF:-1, DISCOVERY HISTORY  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8198.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8204.ts
-#EXTINF:-1, SKY MOVIES PREMIERE UK  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8705.ts
-#EXTINF:-1, SKY MOVIES SCI FI & HORROR  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8704.ts
-#EXTINF:-1, SETANTA SPORT IRLAND 1  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8743.ts
-#EXTINF:-1, UNIVERSAL  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8207.ts
-#EXTINF:-1, SKY MOVIES DISNEY  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8701.ts
-#EXTINF:-1, SKY ART 1  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8713.ts
-#EXTINF:-1, SKY MOVIES COMEDY HD  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8708.ts
-#EXTINF:-1, SKY MOVIES DRAMA & ROMANCE  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8707.ts
-#EXTINF:-1, SKY MOVIES MODERN HD  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8706.ts
-#EXTINF:-1, MOVIES   4 MEN UK  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8716.ts
-#EXTINF:-1, SKY GOOD FOOD  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8697.ts
-#EXTINF:-1, BT Sport2  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5919.ts
-#EXTINF:-1, NICKTOONS  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8719.ts
-#EXTINF:-1, HORROR CHANNEL  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8678.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC WILD  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8725.ts
-#EXTINF:-1, LIVERPOOL FC  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8738.ts
-#EXTINF:-1, MUTV  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8737.ts
-#EXTINF:-1, RTE TWO UK  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8683.ts
-#EXTINF:-1, SKY LIVING UK  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8681.ts
-#EXTINF:-1, HISTORY CHANNEL  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8722.ts
-#EXTINF:-1, DISCOVERY CHANNEL  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8723.ts
-#EXTINF:-1, SKY FAMILY UK  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8710.ts
-#EXTINF:-1, MORE 4  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8689.ts
-#EXTINF:-1, CBS DRAMA  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8693.ts
-#EXTINF:-1, RTE ONE UK  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8682.ts
-#EXTINF:-1, ITV BE  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8673.ts
-#EXTINF:-1, ALIBI  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8690.ts
-#EXTINF:-1, COMEDY CENTRAL  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8702.ts
-#EXTINF:-1, DAVE UK  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8688.ts
-#EXTINF:-1, CARTOON NETWORK  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8718.ts
-#EXTINF:-1, FILME 4 UK  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8715.ts
-#EXTINF:-1, FIVE  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8692.ts
-#EXTINF:-1, CHANNEL 4  IPTVultra.com [720x592]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8675.ts
-#EXTINF:-1, ESPN UK  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8741.ts
-#EXTINF:-1, DISCOVERY SCIENCE UK  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8724.ts
-#EXTINF:-1, CHANNEL 5  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8674.ts
-#EXTINF:-1, CBS ACTION  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8721.ts
-#EXTINF:-1, 3E  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8691.ts
-#EXTINF:-1, CBN  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/21844.ts
-#EXTINF:-1, OSN FOOD NETWORK  IPTVultra.com [1280x720]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/21846.ts
-#EXTINF:-1,  E4 UK  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8684.ts
-#EXTINF:-1, SKY GREATS HD  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/21940.ts
-#EXTINF:-1, RTE 1  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/22008.ts
-#EXTINF:-1, GOLD UK  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8686.ts
-#EXTINF:-1, RACING UK  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8744.ts
-#EXTINF:-1, SKY MOVIES SHOWCASE  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/21987.ts
-#EXTINF:-1, SKY ATLANTIC  IPTVultra.com [1920x1088]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8699.ts
-#EXTINF:-1, 5 USA  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8685.ts
-#EXTINF:-1, SKY SCI FI HORROR  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/21992.ts
-#EXTINF:-1, SKY MOVIES ATLANTIC  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/21988.ts
-#EXTINF:-1, UK: AT THE RACES ST  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20079.ts
-#EXTINF:-1, UK: DMAX  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20075.ts
-#EXTINF:-1, UK: DISCOVERY  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20080.ts
-#EXTINF:-1, UK: FOX NEWS  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20078.ts
-#EXTINF:-1, UK: FOX  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20081.ts
-#EXTINF:-1, UK: MTV BASE  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20067.ts
-#EXTINF:-1, UK: LIFETIME  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20074.ts
-#EXTINF:-1, UK: MTV  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20070.ts
-#EXTINF:-1, UK: SONY SAB  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20077.ts
-#EXTINF:-1, UK: HISTORY  IPTVultra.com [544x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20076.ts
-#EXTINF:-1, UK: MTV MUSIC  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20071.ts
-#EXTINF:-1, UK: MTV ROCK  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20072.ts
-#EXTINF:-1, UK: MOVIES 4 MEN  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20066.ts
-#EXTINF:-1, UK: VIVA  IPTVultra.com [704x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20069.ts
-#EXTINF:-1, UK: TLC  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20082.ts
-#EXTINF:-1,(UK) BT Sport 1  IPTVultra.com [720x576]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/457.ts
-#EXTINF:-1, ESPN UK  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/741.ts
-#EXTINF:-1, UK: WATCH  IPTVultra.com [720x576]
-http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20073.ts
-#EXTINF:-1,(UK) RTE 2  IPTVultra.com [544x576]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/588.ts
-#EXTINF:-1,(UK) Cartoon Network  IPTVultra.com [720x576]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/599.ts
-#EXTINF:-1,(UK) Sky Sports 4 HD  IPTVultra.com [1280x736]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/147.ts
-#EXTINF:-1,(UK) Sky Sports 3 HD UK  IPTVultra.com [1280x720]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/146.ts
-#EXTINF:-1,(UK) BBC World News  IPTVultra.com [720x576]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/205.ts
-#EXTINF:-1,(UK) Sky Sports F1 HD  IPTVultra.com [704x576]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/149.ts
-#EXTINF:-1,(UK) Sky Movies Comedy  IPTVultra.com [544x576]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/578.ts
-#EXTINF:-1, SKY SPORT 1 HD  IPTVultra.com [704x576]
-http://185.2.83.105:8088/live/aminx/aminx/353.ts
-#EXTINF:-1,(UK) Sky News  IPTVultra.com [1920x1088]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/569.ts
-#EXTINF:-1, Eir Sport 1  IPTVultra.com [720x576]
-http://185.2.83.105:8088/live/aminx/aminx/266.ts
-#EXTINF:-1, BBC THREE  IPTVultra.com [1280x720]
-http://185.2.83.105:8088/live/aminx/aminx/265.ts
-#EXTINF:-1,UK | Sky Sports 1  IPTVultra.com [704x576]
-http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1645.ts
-#EXTINF:-1, BT SPORT 1HD  IPTVultra.com [1280x720]
-http://185.2.83.105:8088/live/aminx/aminx/358.ts
-#EXTINF:-1,(UK) Cartoon Network  IPTVultra.com [720x576]
-http://163.172.55.57:5252/live/Usiptv.skype/Razmjenaaa/99.ts
-#EXTINF:-1, SKY SPORTS 1SD  IPTVultra.com [720x576]
-http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1666.ts
-#EXTINF:-1, BBC TWO  IPTVultra.com [1280x720]
-http://185.2.83.105:8088/live/aminx/aminx/264.ts
-#EXTINF:-1, BBC NEWS HD  IPTVultra.com [720x416]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/17780.ts
-#EXTINF:-1, Sky Sport F1  IPTVultra.com [1280x720]
-http://185.2.83.105:8088/live/aminx/aminx/2329.ts
-#EXTINF:-1, ITV 2  IPTVultra.com [720x576]
-http://185.2.83.105:8088/live/aminx/aminx/285.ts
-#EXTINF:-1, ITV 2  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/17794.ts
-#EXTINF:-1, SKY MOVIES FAMILY HD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/17793.ts
-#EXTINF:-1, SKY SPORTS 1HD  IPTVultra.com [720x576]
-http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1665.ts
+#EXTINF:-1, NFL SPORTS HD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/4991.ts
+#EXTINF:-1, STAR SPORTS 3  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/11665.ts
+#EXTINF:-1, BEINSPORTS 8 (AR)  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/783.ts
+#EXTINF:-1, STAR SPORTS 4  IPTVultra.com [640x368]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/11666.ts
+#EXTINF:-1, BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20553.ts
+#EXTINF:-1, BEINSPORTS 3 SD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20552.ts
+#EXTINF:-1, TR: SPORTSTV HD+  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/10075.ts
+#EXTINF:-1, STAR SPORTS 1  IPTVultra.com [704x400]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/11663.ts
+#EXTINF:-1, BEINSPORTS 5 (AR)  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/780.ts
+#EXTINF:-1, TR: PAMMUKKALE TV  IPTVultra.com [1024x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/782.ts
+#EXTINF:-1,+TR: SPORTS TV FULL HD B  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/4473.ts
+#EXTINF:-1, FOX SPORTS 6  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/17504.ts
+#EXTINF:-1, BEINSPORTS 2  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20546.ts
+#EXTINF:-1, Fox Sports 3  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5816.ts
+#EXTINF:-1, Fox Sports 4  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5821.ts
+#EXTINF:-1, CANAL  SPORTS HD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/8864.ts
+#EXTINF:-1, Dubai Sports  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/7390.ts
+#EXTINF:-1, Fox Sports 2  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5817.ts
+#EXTINF:-1, Fox Sports 5  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5815.ts
+#EXTINF:-1, BEINSPORTS 2 SD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/551.ts
+#EXTINF:-1, MBC Pro Sports 2 HD  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5631.ts
+#EXTINF:-1, BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/553.ts
+#EXTINF:-1, Kombat Sports  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/20752.ts
+#EXTINF:-1, MBC Pro Sports 1 HD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/5630.ts
+#EXTINF:-1, BEINSPORTS 1 SD  IPTVultra.com [1120x640]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/543.ts
+#EXTINF:-1, BEINSPORTS 2  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/546.ts
+#EXTINF:-1, BEINSPORTS 3 SD  IPTVultra.com [1280x720]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/552.ts
+#EXTINF:-1, FOX SPORTS 6  IPTVultra.com [720x576]
+http://193.70.54.207:8000/live/Tomaso3/Tomaso3/504.ts
+#EXTINF:-1,AR DUBAI SPORTS 1  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/4754.ts
+#EXTINF:-1,AR DUBAI SPORTS 2  IPTVultra.com [720x576]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/4755.ts
+#EXTINF:-1,AR DUBAI SPORTS 3  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/4748.ts
+#EXTINF:-1,AR DUBAI SPORTS 4  IPTVultra.com [720x576]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/4749.ts
+#EXTINF:-1,AR B SPORTS 4 HD  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/189.ts
+#EXTINF:-1,AR B SPORTS 2 HD  IPTVultra.com [1280x736]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/187.ts
+#EXTINF:-1,AR B SPORTS NEWS  IPTVultra.com [640x480]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/454.ts
+#EXTINF:-1,AR B SPORTS 6 HD  IPTVultra.com [1120x640]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/191.ts
+#EXTINF:-1,FR AB MOTEUR HD  IPTVultra.com [768x432]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/195.ts
+#EXTINF:-1,AR B SPORTS 15 HD  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/453.ts
+#EXTINF:-1,AR B SPORTS 12 HD  IPTVultra.com [1120x640]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/197.ts
+#EXTINF:-1,AR B SPORTS 5 HD  IPTVultra.com [1120x640]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/190.ts
+#EXTINF:-1,FR B SPORTS 1 HD  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/199.ts
+#EXTINF:-1,AR B SPORTS 14 HD  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/452.ts
+#EXTINF:-1,LOW B SPORTS 1 HD FR  IPTVultra.com [960x544]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/196.ts
+#EXTINF:-1,AR B SPORTS 7 HD  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/192.ts
+#EXTINF:-1,AR B SPORTS 3 HD  IPTVultra.com [768x576]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/188.ts
+#EXTINF:-1,LOW B SPORTS 2 HD FR  IPTVultra.com [960x544]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/1133.ts
+#EXTINF:-1,LOW B SPORTS 2 HD FR  IPTVultra.com [960x544]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/133.ts
+#EXTINF:-1,FR B SPORTS 3 HD  IPTVultra.com [1120x640]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/594.ts
+#EXTINF:-1,FR B SPORTS 2 HD  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/200.ts
+#EXTINF:-1,LOW B SPORTS 1 HD FR  IPTVultra.com [960x544]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/1196.ts
+#EXTINF:-1,LOW B SPORTS 3 HD FR  IPTVultra.com [768x576]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/267.ts
+#EXTINF:-1, Band Sports   IPTVultra.com [640x480]
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1856.ts
+#EXTINF:-1,AR B SPORTS 3 HD  IPTVultra.com [768x576]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/88.ts
+#EXTINF:-1,LOW B SPORTS 3 HD FR  IPTVultra.com [768x576]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/1267.ts
+#EXTINF:-1, Fox Sports 2   IPTVultra.com [640x480]
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1814.ts
+#EXTINF:-1,Band Sports HD  IPTVultra.com [1280x720]
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2119.ts
+#EXTINF:-1,ES B SPORTS  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/938.ts
+#EXTINF:-1,ES B SPORTS  IPTVultra.com [1280x720]
+http://149.202.81.112:8000/live/faicel.07/YyPXfqjUw3/3938.ts
+#EXTINF:-1,OSN extreme sports  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1895.ts
+#EXTINF:-1,Kombat Sports (PT)  IPTVultra.com [720x576]
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2681.ts
+#EXTINF:-1,AD SPORTS 1 HD  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/4045.ts
+#EXTINF:-1, Fox Sports   IPTVultra.com [1280x720]
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1815.ts
+#EXTINF:-1,AD Sports 3 HD  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/4047.ts
+#EXTINF:-1,AD SPORTS 2 HD  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/4046.ts
+#EXTINF:-1,AD Sports 6 HD  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/4050.ts
+#EXTINF:-1,AD Sports 5 HD  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/4049.ts
+#EXTINF:-1,Sky Sports F1 HD  IPTVultra.com [1280x736]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1763.ts
+#EXTINF:-1,Extreme Sports  IPTVultra.com [720x576]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2453.ts
+#EXTINF:-1,Sky Sports 3  IPTVultra.com [704x576]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1450.ts
+#EXTINF:-1,Sky Sports News HD  IPTVultra.com [1920x1088]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2217.ts
+#EXTINF:-1,Setanta Sports  IPTVultra.com [1920x1088]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1801.ts
+#EXTINF:-1,Sky Sports 4  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1451.ts
+#EXTINF:-1,SKY SPORTS 5  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1788.ts
+#EXTINF:-1,Premier Sports HD  IPTVultra.com [720x576]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2191.ts
+#EXTINF:-1,Sky Sports F1  IPTVultra.com [704x576]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1453.ts
+#EXTINF:-1,Sky Sports 1  IPTVultra.com [704x576]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1448.ts
+#EXTINF:-1,Sky sports 2  IPTVultra.com [720x480]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/1449.ts
+#EXTINF:-1,beIN Sports HD  IPTVultra.com [1920x1088]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2222.ts
+#EXTINF:-1,Fox Sports 3 HD  IPTVultra.com [1280x720]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2207.ts
+#EXTINF:-1,Fox Sports 4 HD  IPTVultra.com [1024x576]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2209.ts
+#EXTINF:-1,Fox Sports 1 HD  IPTVultra.com [720x576]
+http://151.80.103.220:12580/live/sadil57/7Xt8mZxaIU/2206.ts
+#EXTINF:-1,Extreme Sports   French  IPTVultra.com [528x576]
+http://151.80.35.29:25461/live/stalker/stalker/3023.ts
+#EXTINF:-1,Osn Abu Dhabi Sports 2 HD   Arab  IPTVultra.com [1280x720]
+http://151.80.35.29:25461/live/stalker/stalker/1674.ts
+#EXTINF:-1,Osn On Demand Extra   Arab  IPTVultra.com [1280x720]
+http://151.80.35.29:25461/live/stalker/stalker/662.ts
+#EXTINF:-1,Osn Abu Dhabi Sports 2 HD   Arab  IPTVultra.com [1280x720]
+http://151.80.35.29:25461/live/stalker/stalker/674.ts
+#EXTINF:-1,New OSN: Sports 1  IPTVultra.com [0x0]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5625.ts
+#EXTINF:-1,New AR: Bein Sports News  IPTVultra.com [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5782.ts
+#EXTINF:-1,  GTV Sports Plus (Ghana)  IPTVultra.com [640x368]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/5931.ts
+#EXTINF:-1, Sports TV  IPTVultra.com [720x496]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4564.ts
+#EXTINF:-1, OSN SPORTS2 HD  IPTVultra.com [0x0]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1713.ts
+#EXTINF:-1, Arena Sports 4 HD Croatia  IPTVultra.com [1280x720]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1434.ts
+#EXTINF:-1, Arena Sports 3 HD Croatia  IPTVultra.com [1280x720]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1433.ts
+#EXTINF:-1, Arena Sports 1 HD Croatia  IPTVultra.com [1280x720]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1431.ts
+#EXTINF:-1,Canal Sports  IPTVultra.com [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1957.ts
+#EXTINF:-1, PTV Sports  IPTVultra.com [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/680.ts
+#EXTINF:-1, GeoSports  IPTVultra.com [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1087.ts
+#EXTINF:-1, Fox Sports 6 HD  IPTVultra.com [1024x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3713.ts
+#EXTINF:-1, Fox Sports 5 HD  IPTVultra.com [1024x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3712.ts
+#EXTINF:-1, Fox Sports 4 HD  IPTVultra.com [1024x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3711.ts
+#EXTINF:-1, Fox Sports 3 HD  IPTVultra.com [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3710.ts
+#EXTINF:-1, Fox Sports 2 HD  IPTVultra.com [1024x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3709.ts
+#EXTINF:-1,NL FOX SPORTS2HD  IPTVultra.com [1024x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3639.ts
+#EXTINF:-1,NL FOX SPORTS1HD  IPTVultra.com [1088x608]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/3640.ts
+#EXTINF:-1, Sky Sports 3 HD  IPTVultra.com [1280x736]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1459.ts
+#EXTINF:-1, Sky Sports 1 HD  IPTVultra.com [1280x720]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1462.ts
+#EXTINF:-1, Fox Sports HD  IPTVultra.com [1280x736]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/977.ts
+#EXTINF:-1, Bein Sports 2 HD  IPTVultra.com [1280x720]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1494.ts
+#EXTINF:-1, Bein Sports 1 HD  IPTVultra.com [1040x592]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1495.ts
+#EXTINF:-1,CARI: TV Jamaica Sports  IPTVultra.com [896x608]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/4969.ts
+#EXTINF:-1,Arena Sports 2 HD Croatia  IPTVultra.com [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/1432.ts
+#EXTINF:-1,FR2: BEIN SPORTS HD2  IPTVultra.com [1920x1088]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/6009.ts
+#EXTINF:-1,FR2: BEIN SPORTS HD3  IPTVultra.com [1280x720]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/6010.ts
+#EXTINF:-1,Canal Sports  IPTVultra.com [720x576]
+http://192.99.149.20:8080/live/internal_stalker/internal_use/957.ts
 #EXTINF:-1,UK | Sky Sports 1 HD  IPTVultra.com [1280x720]
 http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1646.ts
-#EXTINF:-1, UK: TVSN  IPTVultra.com [640x368]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/18599.ts
-#EXTINF:-1, BBC 1 HD  IPTVultra.com [1920x1088]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/17778.ts
-#EXTINF:-1, SKY SPORT 1  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/647.ts
-#EXTINF:-1, ESPN HD  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/11033.ts
-#EXTINF:-1,: HABERTURK  IPTVultra.com [864x480]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/646.ts
-#EXTINF:-1, NBA HD  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/11034.ts
-#EXTINF:-1, SKY SPORT F1 HD  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/4681.ts
-#EXTINF:-1, SKY MOVIE DRAMA  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/656.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/667.ts
-#EXTINF:-1, TR: KIDZ ANIMEZ HD+  IPTVultra.com [864x480]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/640.ts
-#EXTINF:-1, EUROSPORT 1  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/676.ts
-#EXTINF:-1, TRUE MOVIES 1  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/639.ts
-#EXTINF:-1, NICKELODEON  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/665.ts
-#EXTINF:-1, SKY SPORT 4  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/644.ts
-#EXTINF:-1,: NAT GEOGRAPHICH HD  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/660.ts
-#EXTINF:-1,: CNN TURK  IPTVultra.com [1920x1088]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/669.ts
-#EXTINF:-1, NEWS  IPTVultra.com [640x368]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/725.ts
-#EXTINF:-1, CERRITOS TV  IPTVultra.com [480x368]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5195.ts
-#EXTINF:-1, TR: KANAL 7 HD  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/643.ts
-#EXTINF:-1, DISNEY CHANNEL  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/680.ts
-#EXTINF:-1, ITV4  IPTVultra.com [912x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5005.ts
-#EXTINF:-1, BBC1  IPTVultra.com [1920x1088]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5010.ts
-#EXTINF:-1, TR: DISCOVERY CHANNEL HD  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/671.ts
-#EXTINF:-1, ITV2  IPTVultra.com [912x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5007.ts
-#EXTINF:-1,: DISCOVERY SHOWCASE  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5892.ts
-#EXTINF:-1, RT DOCUMENTARY  IPTVultra.com [864x480]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5556.ts
-#EXTINF:-1, SKY ARTS 1  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/662.ts
-#EXTINF:-1, BT Sport1  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5920.ts
-#EXTINF:-1, SETANTA SPORT IRELAND  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5002.ts
-#EXTINF:-1, BT SPORT EUROPE  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5019.ts
-#EXTINF:-1, BBC3  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5008.ts
-#EXTINF:-1, BT Sport2  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5919.ts
-#EXTINF:-1, SKY NEWS HD  IPTVultra.com [832x480]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8192.ts
-#EXTINF:-1, TSN 4  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5890.ts
-#EXTINF:-1, SKY CARTOON NETWORK  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8205.ts
-#EXTINF:-1, TSN 1  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5893.ts
-#EXTINF:-1, NICK JR  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8201.ts
-#EXTINF:-1, SKY SPORT 4 HD  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5916.ts
-#EXTINF:-1, DISNEY MOVIES  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8199.ts
-#EXTINF:-1, NICK TOONS  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8202.ts
+#EXTINF:-1,BEIN SPORTS 3 HD  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1716.ts
+#EXTINF:-1,UK | Sky Sports 1  IPTVultra.com [704x576]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1645.ts
+#EXTINF:-1, BEIN SPORTS 1 HD  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1714.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 1  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1650.ts
+#EXTINF:-1, Bein Sports 3 HD  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1689.ts
+#EXTINF:-1,BEIN SPORTS 1 HD AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1674.ts
+#EXTINF:-1, SKY SPORTS 1HD  IPTVultra.com [720x576]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1665.ts
+#EXTINF:-1,BEIN SPORTS 3 HD AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1676.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 3  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1652.ts
+#EXTINF:-1,BEIN SPORTS 2 HD AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1675.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 8  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1657.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 6  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1655.ts
+#EXTINF:-1,BEIN SPORTS 4 HD AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1677.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 9  IPTVultra.com [960x544]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1658.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 4  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1653.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 5  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1654.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 2  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1651.ts
+#EXTINF:-1,BEIN SPORTS HD8 AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1680.ts
+#EXTINF:-1,BEIN SPORTS 6 HD AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1679.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 11  IPTVultra.com [1120x640]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1660.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 10  IPTVultra.com [1280x736]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1659.ts
+#EXTINF:-1,BEIN SPORTS HD10 AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1682.ts
+#EXTINF:-1,BEIN SPORTS HD9 AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1681.ts
+#EXTINF:-1,BEIN SPORTS 5 HD AR  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1678.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 12  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1661.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 7  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1656.ts
+#EXTINF:-1,BEIN SPORTS 2 HD  IPTVultra.com [1280x720]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1715.ts
+#EXTINF:-1, Bein Sports 1 HD  IPTVultra.com [1040x592]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1687.ts
+#EXTINF:-1, Bein Sports 2 HD  IPTVultra.com [1040x592]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1688.ts
+#EXTINF:-1, SKY SPORTS 1SD  IPTVultra.com [720x576]
+http://195.154.243.157:9090/live/hamzasat07/t7DOneRzLo/1666.ts
+#EXTINF:-1,: SPORTS TV  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/3427.ts
+#EXTINF:-1, TR: SPORTSTV HD+  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/10075.ts
+#EXTINF:-1,+TR: SPORTS TV FULL HD B  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/4473.ts
+#EXTINF:-1, BEINSPORTS 2 SD  IPTVultra.com [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20551.ts
+#EXTINF:-1, BEINSPORTS 3  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20547.ts
+#EXTINF:-1, BEINSPORTS 2 HD  IPTVultra.com [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20550.ts
+#EXTINF:-1, BEINSPORTS 1 SD  IPTVultra.com [1040x592]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20543.ts
+#EXTINF:-1, BEINSPORTS 2  IPTVultra.com [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20546.ts
+#EXTINF:-1, FR: BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20548.ts
+#EXTINF:-1, BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/6254.ts
+#EXTINF:-1,; KANAL 24  IPTVultra.com [640x368]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/783.ts
+#EXTINF:-1, FR: BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20544.ts
+#EXTINF:-1, BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20553.ts
+#EXTINF:-1, BEINSPORTS 3 SD  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20552.ts
+#EXTINF:-1, BEINSPORTS 1  IPTVultra.com [1040x592]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20542.ts
+#EXTINF:-1, BEINSPORTS 9 (AR)  IPTVultra.com [1280x736]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/784.ts
+#EXTINF:-1, TR: PAMMUKKALE TV  IPTVultra.com [1024x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/782.ts
+#EXTINF:-1, BEINSPORTS 5 (AR)  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/780.ts
+#EXTINF:-1, BEINSPORTS 6 (AR)  IPTVultra.com [1280x736]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/781.ts
+#EXTINF:-1, PTV SPORTS  IPTVultra.com [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/11962.ts
+#EXTINF:-1, STAR SPORTS 1  IPTVultra.com [704x400]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/11663.ts
+#EXTINF:-1, STAR SPORTS 4  IPTVultra.com [704x400]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/11666.ts
+#EXTINF:-1, FOX SPORTS 6  IPTVultra.com [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/17504.ts
+#EXTINF:-1, NFL SPORTS HD  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/4991.ts
 #EXTINF:-1, TR: BEINSPORT 2 YEDEK  IPTVultra.com [1280x720]
 http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5897.ts
-#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8204.ts
-#EXTINF:-1, SKY ARTS  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8190.ts
-#EXTINF:-1, E!  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8191.ts
-#EXTINF:-1, NATIONAL GEOGRAPHICH  IPTVultra.com [640x368]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8196.ts
-#EXTINF:-1, SKY MOVIE SHOWCASE  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8208.ts
-#EXTINF:-1, DISCOVERY TURBO  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8185.ts
-#EXTINF:-1, ITV3  IPTVultra.com [720x256]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5006.ts
-#EXTINF:-1, NAT GEO WILD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8197.ts
-#EXTINF:-1, DE: DISNEY CHANNEL  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/729.ts
-#EXTINF:-1, CNN HD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8194.ts
-#EXTINF:-1, ANIMAL PLANET  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8188.ts
-#EXTINF:-1, UNIVERSAL  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8207.ts
-#EXTINF:-1, DISCOVERY SCIENCE  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8186.ts
-#EXTINF:-1, TLC  IPTVultra.com [1088x608]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8189.ts
-#EXTINF:-1, SYFY  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8183.ts
-#EXTINF:-1, DISCOVERY HISTORY  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8198.ts
-#EXTINF:-1, DISCOVERY  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8195.ts
-#EXTINF:-1, BT SPORT EXTRA 1  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5914.ts
-#EXTINF:-1, TRUE MOVIES 2  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8711.ts
-#EXTINF:-1, SYFY UK  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8714.ts
-#EXTINF:-1, SKY SPORT F1  IPTVultra.com [880x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8727.ts
-#EXTINF:-1, SKY MOVIES THRILLER  IPTVultra.com [688x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8703.ts
-#EXTINF:-1, Sky ONE  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8680.ts
-#EXTINF:-1, YESTERDAY  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8679.ts
-#EXTINF:-1, SKY MOVIES MODERN HD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8706.ts
-#EXTINF:-1, BLOOMBERG  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8210.ts
-#EXTINF:-1, MTV  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8184.ts
-#EXTINF:-1, SKY MOVIES COMEDY HD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8708.ts
-#EXTINF:-1, NICKTOONS  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8719.ts
-#EXTINF:-1, SETANTA SPORT IRLAND 1  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8743.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC WILD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8725.ts
-#EXTINF:-1, SKY MOVIES ACTION & ADVENTURE  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8709.ts
-#EXTINF:-1, SKY MOVIES PREMIERE UK  IPTVultra.com [960x544]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8705.ts
-#EXTINF:-1, SKY FAMILY UK  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8710.ts
-#EXTINF:-1, SKY MOVIES DISNEY  IPTVultra.com [688x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8701.ts
-#EXTINF:-1, RTE TWO UK  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8683.ts
-#EXTINF:-1, MUTV  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8737.ts
-#EXTINF:-1, SKY ART 1  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8713.ts
-#EXTINF:-1, SKY LIVING UK  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8681.ts
-#EXTINF:-1, LIVERPOOL FC  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8738.ts
-#EXTINF:-1, SKY MOVIES DRAMA & ROMANCE  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8707.ts
-#EXTINF:-1, DISNEY XD  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8203.ts
-#EXTINF:-1, ESPN UK  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8741.ts
-#EXTINF:-1, ITV BE  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8673.ts
-#EXTINF:-1, SKY GOOD FOOD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8697.ts
-#EXTINF:-1, RACING UK  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8744.ts
-#EXTINF:-1, MORE 4  IPTVultra.com [864x480]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8689.ts
-#EXTINF:-1, HORROR CHANNEL  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8678.ts
-#EXTINF:-1, DISCOVERY CHANNEL  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8723.ts
-#EXTINF:-1, GOLD UK  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8686.ts
-#EXTINF:-1, EUROSPORT 2 UK  IPTVultra.com [1024x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8740.ts
-#EXTINF:-1, HISTORY CHANNEL  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8722.ts
-#EXTINF:-1, DISCOVERY SCIENCE UK  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8724.ts
-#EXTINF:-1, RTE ONE UK  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8682.ts
-#EXTINF:-1, MOVIES   4 MEN UK  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8716.ts
-#EXTINF:-1, NICK JUNIOR  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/13194.ts
-#EXTINF:-1, BABY TV  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/13173.ts
-#EXTINF:-1, 3E  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8691.ts
-#EXTINF:-1, PREMIERE SPORT  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12835.ts
-#EXTINF:-1, MOVIES FAMILY HD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12825.ts
-#EXTINF:-1, MOVIES ACTION HD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/12826.ts
-#EXTINF:-1,  E4 UK  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8684.ts
-#EXTINF:-1, SKY COMEDY HD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/13354.ts
-#EXTINF:-1, DAVE UK  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8688.ts
-#EXTINF:-1, COMEDY CENTRAL  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8702.ts
-#EXTINF:-1, CHANNEL 5  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8674.ts
-#EXTINF:-1, FIVE  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8692.ts
-#EXTINF:-1, BT SPORT 1  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/13352.ts
-#EXTINF:-1, DISNEY  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21996.ts
-#EXTINF:-1, CHANNEL 4  IPTVultra.com [1920x1088]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8675.ts
-#EXTINF:-1, QUEST  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/22010.ts
-#EXTINF:-1, OSN FOOD NETWORK  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21846.ts
-#EXTINF:-1, CBN  IPTVultra.com [640x480]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21844.ts
-#EXTINF:-1, NICK  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21995.ts
-#EXTINF:-1, CBS DRAMA  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8693.ts
-#EXTINF:-1, CARTOON NETWORK  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8718.ts
-#EXTINF:-1, SKY SPORT 1 HD  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21990.ts
-#EXTINF:-1, ITV 4  IPTVultra.com [912x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21998.ts
-#EXTINF:-1, ALIBI  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8690.ts
-#EXTINF:-1, SKY GREATS HD  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21940.ts
-#EXTINF:-1, SKY ACTION  IPTVultra.com [688x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21994.ts
-#EXTINF:-1, RTE 1  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/22008.ts
-#EXTINF:-1, 5 USA  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8685.ts
-#EXTINF:-1, UK: AT THE RACES ST  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20079.ts
-#EXTINF:-1, SKY SPORT 2 HD  IPTVultra.com [864x480]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21989.ts
-#EXTINF:-1, SKY MOVIES SHOWCASE  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21987.ts
-#EXTINF:-1, UK: FOX NEWS  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20078.ts
-#EXTINF:-1, SKY SCI FI HORROR  IPTVultra.com [688x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21992.ts
-#EXTINF:-1, UK: DISCOVERY  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20080.ts
-#EXTINF:-1, UK: MTV BASE  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20067.ts
-#EXTINF:-1, UK: MOVIES 4 MEN  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20066.ts
-#EXTINF:-1, UK: MTV ROCK  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20072.ts
-#EXTINF:-1, SKY SPORT 5 HD  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21991.ts
-#EXTINF:-1, UK: HISTORY  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20076.ts
-#EXTINF:-1, UK: MTV MUSIC  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20071.ts
-#EXTINF:-1, UK: SONY SAB  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20077.ts
-#EXTINF:-1, UK: LIFETIME  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20074.ts
-#EXTINF:-1, UK: MTV  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20070.ts
-#EXTINF:-1,: CAPITAL TV  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/21271.ts
-#EXTINF:-1, UK: VIVA  IPTVultra.com [704x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20069.ts
-#EXTINF:-1, UK: WATCH  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20073.ts
-#EXTINF:-1, UK: TLC  IPTVultra.com [720x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20082.ts
-#EXTINF:-1, ESPN UK  IPTVultra.com [1280x720]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/741.ts
-#EXTINF:-1, UK: DMAX  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20075.ts
-#EXTINF:-1, UK: FOX  IPTVultra.com [544x576]
-http://79.137.20.242:8000/live/Tomaso3/Tomaso3/20081.ts
-#EXTINF:-1, TR: KIDZ ANIMEZ SD TURKCELL  IPTVultra.com [864x480]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/639.ts
-#EXTINF:-1, UNIVERSAL  IPTVultra.com [720x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8207.ts
-#EXTINF:-1, TSN 1  IPTVultra.com [1280x720]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/5893.ts
-#EXTINF:-1, DISNEY MOVIES  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8199.ts
-#EXTINF:-1, SKY CARTOON NETWORK  IPTVultra.com [544x576]
-http://79.137.3.39:8000/live/Tomaso3/Tomaso3/8205.ts
+#EXTINF:-1,: RAI 5 HD  IPTVultra.com [624x352]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5817.ts
+#EXTINF:-1, IT: RAI 1 HD  IPTVultra.com [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5821.ts
+#EXTINF:-1, IT: RAI SPORT 2 HD  IPTVultra.com [704x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5815.ts
+#EXTINF:-1, IT: RAI SPORT 1 HD  IPTVultra.com [704x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5816.ts
+#EXTINF:-1, FOX SPORTS 2 HD  IPTVultra.com [1024x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16434.ts
+#EXTINF:-1, FOX SPORTS 1  IPTVultra.com [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/16435.ts
+#EXTINF:-1, CANAL  SPORTS HD  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/8864.ts
+#EXTINF:-1, MBC Pro Sports 1 HD  IPTVultra.com [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5630.ts
+#EXTINF:-1, MBC Pro Sports 2 HD  IPTVultra.com [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/5631.ts
+#EXTINF:-1, Dubai Sports  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/7390.ts
+#EXTINF:-1, FR: BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/548.ts
+#EXTINF:-1, FR: BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/544.ts
+#EXTINF:-1, BEINSPORTS 2  IPTVultra.com [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/546.ts
+#EXTINF:-1, BEINSPORTS 2 SD  IPTVultra.com [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/551.ts
+#EXTINF:-1, BEINSPORTS 1 SD  IPTVultra.com [1040x592]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/543.ts
+#EXTINF:-1, BEINSPORTS 2 HD  IPTVultra.com [1920x1088]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/550.ts
+#EXTINF:-1, BEINSPORTS 3 SD  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/552.ts
+#EXTINF:-1, BEINSPORTS 3 HD  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/553.ts
+#EXTINF:-1, BEINSPORTS 3  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/547.ts
+#EXTINF:-1,+TR: SPORTS TV FULL HD B  IPTVultra.com [1280x720]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/473.ts
+#EXTINF:-1, FOX SPORTS 6  IPTVultra.com [720x576]
+http://79.137.20.242:8000/live/Tomaso3/Tomaso3/504.ts
+#EXTINF:-1,beINSports fr1  IPTVultra.com [1040x592]
+http://151.80.101.14:8000/live/ibrahem/ibrahem/16.ts
+#EXTINF:-1,OSN=Sports Cricket  IPTVultra.com [1120x640]
+http://151.80.101.14:8000/live/ibrahem/ibrahem/1200.ts
+#EXTINF:-1,MBCProSports1  IPTVultra.com [720x576]
+http://151.80.101.14:8000/live/ibrahem/ibrahem/40.ts
+#EXTINF:-1,KIDS MOVIE2  IPTVultra.com [1280x720]
+http://151.80.101.14:8000/live/ibrahem/ibrahem/39.ts
+#EXTINF:-1,Sky Sports1  IPTVultra.com [1280x736]
+http://151.80.101.14:8000/live/ibrahem/ibrahem/934.ts
+#EXTINF:-1,Sky Sports24  IPTVultra.com [1920x1088]
+http://151.80.101.14:8000/live/ibrahem/ibrahem/937.ts
+#EXTINF:-1,BEIN SPORTS HD1  IPTVultra.com [1280x720]
+http://151.80.101.14:8000/live/ibrahem/ibrahem/1159.ts
+#EXTINF:-1, FR: BEINSPORTS 2 HD  IPTVultra.com [1920x1088]
+http://79.137.3.39:8000/live/Tomaso3/Tomaso3/20549.ts
+#EXTINF:-1,  BeinHD Sports HD3  IPTVultra.com [1280x720]
+http://149.202.205.91:8081/live/pedro/skype/889.ts
+#EXTINF:-1, CANALPLAY 4  IPTVultra.com [0x8]
+http://149.202.205.91:8081/live/pedro/skype/354.ts
+#EXTINF:-1,Dhabi Sports3  IPTVultra.com [720x576]
+http://149.202.205.91:8081/live/pedro/skype/1990.ts
+#EXTINF:-1, Fox Sports 2  IPTVultra.com [720x576]
+http://151.80.97.92:8000/live/adolfo/adolfo/5073.ts
+#EXTINF:-1, FOX Sports 5  IPTVultra.com [1024x576]
+http://151.80.97.92:8000/live/adolfo/adolfo/5070.ts
+#EXTINF:-1, FOX Sports 4  IPTVultra.com [1024x576]
+http://151.80.97.92:8000/live/adolfo/adolfo/5071.ts
+#EXTINF:-1, FOX Sports 3  IPTVultra.com [720x576]
+http://151.80.97.92:8000/live/adolfo/adolfo/5072.ts
+#EXTINF:-1, FOX Sports 6  IPTVultra.com [1024x576]
+http://151.80.97.92:8000/live/adolfo/adolfo/5069.ts
+#EXTINF:-1,BT Sports 2 (UK)  IPTVultra.com [720x576]
+http://151.80.97.92:8000/live/adolfo/adolfo/5455.ts
+#EXTINF:-1,Fox Sports 1 (UK)  IPTVultra.com [720x576]
+http://151.80.97.92:8000/live/adolfo/adolfo/5446.ts
+#EXTINF:-1,Sky Sports 4 (UK)  IPTVultra.com [704x576]
+http://151.80.97.92:8000/live/adolfo/adolfo/5430.ts
+#EXTINF:-1,Sky Sports 3 (UK)  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5431.ts
+#EXTINF:-1,Sky Sports 5 (UK)  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5429.ts
+#EXTINF:-1, BEIN SPORTS 1 (FR)  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5341.ts
+#EXTINF:-1, BeIN SPORTS 1 HD  IPTVultra.com [1040x592]
+http://151.80.97.92:8000/live/adolfo/adolfo/5340.ts
+#EXTINF:-1, Bein SPORTS 3  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5339.ts
+#EXTINF:-1, BEIN  SPORTS 2  IPTVultra.com [1040x592]
+http://151.80.97.92:8000/live/adolfo/adolfo/5344.ts
+#EXTINF:-1, SFR Sports 1  IPTVultra.com [960x544]
+http://151.80.97.92:8000/live/adolfo/adolfo/5245.ts
+#EXTINF:-1, SFR Sports 3  IPTVultra.com [1920x1088]
+http://151.80.97.92:8000/live/adolfo/adolfo/5243.ts
+#EXTINF:-1,USA NBC SPORTS 1 HD (LIVE EPL)  IPTVultra.com [864x480]
+http://151.80.97.92:8000/live/adolfo/adolfo/5728.ts
+#EXTINF:-1,USA NBC SPORTS 3 HD (LIVE EPL)  IPTVultra.com [640x368]
+http://151.80.97.92:8000/live/adolfo/adolfo/5726.ts
+#EXTINF:-1,USA TSN Sports 4 HD  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5730.ts
+#EXTINF:-1,USA TSN Sports 5 HD  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5729.ts
+#EXTINF:-1,USA TSN Sports 3 HD  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5731.ts
+#EXTINF:-1,CAN Sportsnet One (EPL 3PM)  IPTVultra.com [960x544]
+http://151.80.97.92:8000/live/adolfo/adolfo/5741.ts
+#EXTINF:-1,USA NBC SPORTS 4 HD (LIVE EPL)  IPTVultra.com [640x368]
+http://151.80.97.92:8000/live/adolfo/adolfo/5725.ts
+#EXTINF:-1,CAN Sportsnet Ontario (EPL 3PM)  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5742.ts
+#EXTINF:-1,USA NBC SPORTS 5 HD (LIVE EPL)  IPTVultra.com [640x368]
+http://151.80.97.92:8000/live/adolfo/adolfo/5724.ts
+#EXTINF:-1,USA TSN Sports 2 HD  IPTVultra.com [1280x720]
+http://151.80.97.92:8000/live/adolfo/adolfo/5732.ts
+#EXTINF:-1,UK | BT Sports 1  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3496.ts
+#EXTINF:-1,UK | Premier Sports  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3569.ts
+#EXTINF:-1,UK | Sky Sports 2 HD  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3593.ts
+#EXTINF:-1,UK | Sky Sports 4 HD  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3597.ts
+#EXTINF:-1,UK | Sky Sports 1  IPTVultra.com [704x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3590.ts
+#EXTINF:-1,UK | Sky Sports 1 HD  IPTVultra.com [1920x1088]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3591.ts
+#EXTINF:-1,UK | Sky Sports F1 HD  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3601.ts
+#EXTINF:-1,UK | Sky Sports F1  IPTVultra.com [704x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3600.ts
+#EXTINF:-1,UK | Sky Sports News  IPTVultra.com [544x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3602.ts
+#EXTINF:-1,UK | Sky Sports 3 HD  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3595.ts
+#EXTINF:-1,UK | Sky Sports 3  IPTVultra.com [704x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3594.ts
+#EXTINF:-1,UK | Sky Sports 4  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3596.ts
+#EXTINF:-1,SPORTS | Arena Sport 1 Croatia  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4039.ts
+#EXTINF:-1,SPORTS | Arena Sport 1 Serbian  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4038.ts
+#EXTINF:-1,SPORTS | Arena Sport 2 Croatia  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4041.ts
+#EXTINF:-1,SPORTS | Arena Sport 2 Serbian  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4040.ts
+#EXTINF:-1,SPORTS | Arena Sport 3 Serbian  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4042.ts
+#EXTINF:-1,SPORTS | Arena Sport 5 Serbian  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4047.ts
+#EXTINF:-1,SPORTS | Arena Sport 4 Croatia  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4045.ts
+#EXTINF:-1,SPORTS | Arena Sport 3 Croatia  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4043.ts
+#EXTINF:-1,SPORTS | Arena Sport 4 Serbian  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4044.ts
+#EXTINF:-1,SPORTS | Arena Sport 5 Croatia  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4046.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 10  IPTVultra.com [1280x736]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4025.ts
+#EXTINF:-1,SPORTS | Astro Supersport 2  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4049.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 11  IPTVultra.com [1280x736]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4026.ts
+#EXTINF:-1,SPORTS | Astro Supersport 3  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4050.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 1  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4016.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 12  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4027.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 4  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4019.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 3  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4018.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 2  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4017.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 5  IPTVultra.com [1280x736]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4020.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 6  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4021.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 8  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4023.ts
+#EXTINF:-1,SPORTS | BEIN SPORTS 9  IPTVultra.com [1120x640]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4024.ts
+#EXTINF:-1,SPORTS | Digi Sport 2  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4053.ts
+#EXTINF:-1,SPORTS | Digi Sport 1  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4052.ts
+#EXTINF:-1,SPORTS | Extreme Sports  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4055.ts
+#EXTINF:-1,SPORTS | Digi Sport 3  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4054.ts
+#EXTINF:-1,SPORTS | GEO Super  IPTVultra.com [720x416]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4072.ts
+#EXTINF:-1,SPORTS | NBA TV  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4056.ts
+#EXTINF:-1,SPORTS | OSN Sport 2  IPTVultra.com [1024x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4058.ts
+#EXTINF:-1,SPORTS | OSN Sport 1  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4057.ts
+#EXTINF:-1,SPORTS | OSN Sport 3  IPTVultra.com [1024x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4059.ts
+#EXTINF:-1,SPORTS | PTV Sports  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4071.ts
+#EXTINF:-1,SPORTS | Smart Sport 1  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4061.ts
+#EXTINF:-1,SPORTS | Sony Six  IPTVultra.com [704x400]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4070.ts
+#EXTINF:-1,SPORTS | Sport Klub 3  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4064.ts
+#EXTINF:-1,SPORTS | OSN Sport 4  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4060.ts
+#EXTINF:-1,SPORTS | Sport Klub 2  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4063.ts
+#EXTINF:-1,SPORTS | Sport Klub 5  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4066.ts
+#EXTINF:-1,SPORTS | Sport Klub 4  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4065.ts
+#EXTINF:-1,SPORTS | Sport Klub 1  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4062.ts
+#EXTINF:-1,SPORTS | Star Sports 2  IPTVultra.com [704x400]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4076.ts
+#EXTINF:-1,SPORTS | Star Sports 1  IPTVultra.com [704x400]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4075.ts
+#EXTINF:-1,SPORTS | Sport TV 1 PT  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4067.ts
+#EXTINF:-1,SPORTS | SuperSport 1 HD  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4033.ts
+#EXTINF:-1,SPORTS | Star Sports 4  IPTVultra.com [704x400]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4078.ts
+#EXTINF:-1,SPORTS | SuperSport 3 HD  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4035.ts
+#EXTINF:-1,SPORTS | Star Sports 3  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4077.ts
+#EXTINF:-1,SPORTS | SuperSport 4 HD  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4036.ts
+#EXTINF:-1,SPORTS | SuperSport 2 HD  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4034.ts
+#EXTINF:-1,SPORTS | SuperSport 5 HD  IPTVultra.com [544x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4037.ts
+#EXTINF:-1,SPORTS | Ten Cricket  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4068.ts
+#EXTINF:-1,SPORTS VIP | AD Sports 1 (Arabic)  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4098.ts
+#EXTINF:-1,SPORTS VIP | Extreme Sports 1  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4094.ts
+#EXTINF:-1,SPORTS VIP | AD Sports 2 (Arabic)  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4099.ts
+#EXTINF:-1,SPORTS | Willow Cricket  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4069.ts
+#EXTINF:-1,SPORTS VIP | Fight Channel 2  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4090.ts
+#EXTINF:-1,SPORTS VIP | Fight Channel 1  IPTVultra.com [720x256]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4089.ts
+#EXTINF:-1,SPORTS VIP | Fight Channel 3  IPTVultra.com [1024x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4091.ts
+#EXTINF:-1,SPORTS VIP | Fight Channel 4  IPTVultra.com [720x256]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4092.ts
+#EXTINF:-1,SPORTS VIP | Real Madrid  IPTVultra.com [720x416]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4100.ts
+#EXTINF:-1,SPORTS VIP | SFR Sport 1  IPTVultra.com [1920x1088]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4101.ts
+#EXTINF:-1,SPORTS VIP | SFR Sport 2  IPTVultra.com [1920x1088]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4102.ts
+#EXTINF:-1,SPORTS VIP | Sky Sports Mix (UK)  IPTVultra.com [544x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4096.ts
+#EXTINF:-1,SPORTS VIP | Skynet Sports 1  IPTVultra.com [864x480]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4104.ts
+#EXTINF:-1,SPORTS VIP | Skynet Sports  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4103.ts
+#EXTINF:-1,SPORTS VIP | Skynet Sports 2  IPTVultra.com [864x480]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4105.ts
+#EXTINF:-1,SPORTS TV  IPTVultra.com [720x488]
+http://77.223.131.175/sportstv/SportsTV3/HasBahCa.m3u8
+#EXTINF:-1,SPORTS VIP | Skynet Sports 3  IPTVultra.com [640x368]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4106.ts
+#EXTINF:-1,SPORTS VIP | Skynet Sports 4  IPTVultra.com [640x368]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4107.ts
+#EXTINF:-1,SPORTS VIP | Skynet Sports 5  IPTVultra.com [640x368]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4108.ts
+#EXTINF:-1,SPORTS VIP | Skynet Sports 6  IPTVultra.com [640x368]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4109.ts
+#EXTINF:-1,SPORTS VIP | SPORTS Kombat Sport  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4093.ts
+#EXTINF:-1,SPORTS VIP | VIASAT Football  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4087.ts
+#EXTINF:-1,SPORTS VIP | VIASAT Sports  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4088.ts
+#EXTINF:-1,USA | Fox Sports 1  IPTVultra.com [960x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4188.ts
+#EXTINF:-1,USA | FOX Sports 2  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4189.ts
+#EXTINF:-1,USA VIP | AFN Sports  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4230.ts
+#EXTINF:-1,USA VIP | AFN Sports 2  IPTVultra.com [720x480]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4231.ts
+#EXTINF:-1,USA VIP | Bein Sports  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4254.ts
+#EXTINF:-1,USA VIP | Fox Sports 1  IPTVultra.com [960x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4220.ts
+#EXTINF:-1,USA VIP | Fox Sports 2  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4221.ts
+#EXTINF:-1,USA VIP | Sports Net 360  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4242.ts
+#EXTINF:-1,USA VIP | Sports Net One  IPTVultra.com [960x544]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4241.ts
+#EXTINF:-1,TR | Sports TV  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/3906.ts
+#EXTINF:-1,SC | Fox Sports 3 Eredivisie  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4129.ts
+#EXTINF:-1,SC | Fox Sports 1 Eredivisie  IPTVultra.com [1088x608]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4127.ts
+#EXTINF:-1,SC | Fox Sports 2 International  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4128.ts
+#EXTINF:-1,SC | Fox Sports 4 International  IPTVultra.com [1024x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4130.ts
+#EXTINF:-1,SC | Fox Sports 5 Eredivisie  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4131.ts
+#EXTINF:-1,PL VIP | Eleven Sports  IPTVultra.com [720x528]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4658.ts
+#EXTINF:-1,NL | Fox Sports 1  IPTVultra.com [1920x1088]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4530.ts
+#EXTINF:-1,NL | Fox Sports 2  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4531.ts
+#EXTINF:-1,NL | Fox Sports 3  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4532.ts
+#EXTINF:-1,NL | Fox Sports 5  IPTVultra.com [1024x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4534.ts
+#EXTINF:-1,NL | Fox Sports 6  IPTVultra.com [1024x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4535.ts
+#EXTINF:-1,NL | Fox Sports 4  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4533.ts
+#EXTINF:-1,AR | Abu Dhabi Sports 1  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4827.ts
+#EXTINF:-1,AR | Abu Dhabi Sports 2  IPTVultra.com [1280x720]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4828.ts
+#EXTINF:-1,AR | Saudi Sports  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4882.ts
+#EXTINF:-1,IN | Star Sports 2  IPTVultra.com [704x400]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4772.ts
+#EXTINF:-1,IN | Star Sports 4  IPTVultra.com [704x400]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4770.ts
+#EXTINF:-1,IN | Star Sports 3  IPTVultra.com [720x576]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4771.ts
+#EXTINF:-1,IN | Ten Sports  IPTVultra.com [704x400]
+http://217.182.138.85:7000/live/jeremy1/jeremy1/4766.ts
+#EXTINF:-1, BEIN SPORTS 3 HD / FR  IPTVultra.com [1280x720]
+http://37.59.155.97:8000/live/lirone2/lirone2/225.ts
+#EXTINF:-1, BEIN SPORTS 2 HD FR  IPTVultra.com [1280x720]
+http://37.59.155.97:8000/live/lirone2/lirone2/226.ts
+#EXTINF:-1,L VIP BEIN SPORTS 8HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6706.ts
+#EXTINF:-1,L VIP BEIN SPORTS 13HD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6729.ts
+#EXTINF:-1,L VIP BEIN SPORTS 9SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6709.ts
+#EXTINF:-1,L VIP BEIN SPORTS 1SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6271.ts
+#EXTINF:-1,L VIP BEIN SPORTS 10SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6711.ts
+#EXTINF:-1,L VIP BEIN SPORTS 6HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6702.ts
+#EXTINF:-1,L VIP BEIN SPORTS 1HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6270.ts
+#EXTINF:-1,L VIP BEIN SPORTS 12HD( English )  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6713.ts
+#EXTINF:-1,L VIP BEIN SPORTS 2HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6272.ts
+#EXTINF:-1,L VIP BEIN SPORTS 3SD  IPTVultra.com [1024x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6697.ts
+#EXTINF:-1,L VIP BEIN SPORTS 9HD  IPTVultra.com [960x544]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6708.ts
+#EXTINF:-1,L VIP BEIN SPORTS 7HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6704.ts
+#EXTINF:-1,L VIP BEIN SPORTS 11HD( English )  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6712.ts
+#EXTINF:-1,BEIN SPORTS HD 1  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6911.ts
+#EXTINF:-1,L VIP BEIN SPORTS 4SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6699.ts
+#EXTINF:-1,L VIP BEIN SPORTS 5SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6701.ts
+#EXTINF:-1,L VIP BEIN SPORTS 4HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6698.ts
+#EXTINF:-1,BEIN SPORTS HD 2  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6912.ts
+#EXTINF:-1,L VIP BEIN SPORTS 5HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6700.ts
+#EXTINF:-1,L VIP BEIN SPORTS 10HD  IPTVultra.com [960x544]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6710.ts
+#EXTINF:-1,L VIP BEIN SPORTS 2SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6273.ts
+#EXTINF:-1,BEIN SPORTS HD 5  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6915.ts
+#EXTINF:-1,L VIP BEIN SPORTS 6SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6703.ts
+#EXTINF:-1,BEIN SPORTS NEWS  IPTVultra.com [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/281.ts
+#EXTINF:-1,BEIN SPORTS HD 7  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6917.ts
+#EXTINF:-1,L VIP BEIN SPORTS 3HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6274.ts
+#EXTINF:-1,BEIN SPORTS HD 9  IPTVultra.com [1120x640]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7016.ts
+#EXTINF:-1,BEIN SPORTS HD 10  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7017.ts
+#EXTINF:-1,BEIN SPORTS HD 6  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6916.ts
+#EXTINF:-1,BEIN SPORTS HD 3  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6913.ts
+#EXTINF:-1,L VIP BEIN SPORTS 8SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6707.ts
+#EXTINF:-1,BEIN SPORTS HD 4  IPTVultra.com [1376x768]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6914.ts
+#EXTINF:-1,BEIN SPORTS HD 8  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6918.ts
+#EXTINF:-1,BEIN SPORTS HD 2  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6680.ts
+#EXTINF:-1,BEIN SPORTS HD 9  IPTVultra.com [960x544]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6673.ts
+#EXTINF:-1,BEIN SPORTS HD 8  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6674.ts
+#EXTINF:-1,BEIN SPORTS HD 7  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6675.ts
+#EXTINF:-1,BEIN SPORTS HD 1  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6681.ts
+#EXTINF:-1,L AD SPORTS 3 HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6239.ts
+#EXTINF:-1,MBC PROSPORTS 2  IPTVultra.com [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/760.ts
+#EXTINF:-1,MBC PROSPORTS 1  IPTVultra.com [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/759.ts
+#EXTINF:-1,MBC PROSPORTS 3  IPTVultra.com [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/761.ts
+#EXTINF:-1,OSN:Sports1  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/693.ts
+#EXTINF:-1,L (AR) OSN  SPORTS CRICKET HD  IPTVultra.com [768x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6155.ts
+#EXTINF:-1,L (AR) OSN SPORTS 2 HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6123.ts
+#EXTINF:-1,L (AR) DMC SPORTS HD  IPTVultra.com [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6933.ts
+#EXTINF:-1,L (AR) KUWAIT SPORTS  IPTVultra.com [1920x1088]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6459.ts
+#EXTINF:-1,(AR) OMAN SPORTS  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7048.ts
+#EXTINF:-1,VIP: Eleven Sports HD PL  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/2256.ts
+#EXTINF:-1,VIP: Sky Sports 3 HD UK  IPTVultra.com [704x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/2231.ts
+#EXTINF:-1,VIP: Star Sports 4 HD IND  IPTVultra.com [704x400]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/2245.ts
+#EXTINF:-1,SPORTS VIP: Skynet 5 EPL  IPTVultra.com [640x368]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6294.ts
+#EXTINF:-1,SPORTS VIP: Skynet 6 EPL  IPTVultra.com [640x368]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6295.ts
+#EXTINF:-1,SPORTS VIP: Skynet 4 EPL  IPTVultra.com [640x368]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6293.ts
+#EXTINF:-1,SPORTS VIP: Skynet 3 EPL  IPTVultra.com [640x368]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6292.ts
+#EXTINF:-1,SPORTS VIP: Skynet 1 EPL  IPTVultra.com [640x368]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6290.ts
+#EXTINF:-1,SPORTS VIP: LFCTV  IPTVultra.com [544x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/6289.ts
+#EXTINF:-1,BEIN SPORTS 3  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1787.ts
+#EXTINF:-1,BEIN SPORTS 4  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1788.ts
+#EXTINF:-1,BEIN SPORTS 2  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1786.ts
+#EXTINF:-1, Fox Sports 2 HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1411.ts
+#EXTINF:-1, Fox Sports 1 HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1414.ts
+#EXTINF:-1,FOX SPORTS 2  IPTVultra.com [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1776.ts
+#EXTINF:-1,FOX SPORTS 3  IPTVultra.com [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/1777.ts
+#EXTINF:-1,BEIN SPORTS HD 9  IPTVultra.com [960x544]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/673.ts
+#EXTINF:-1,L VIP BEIN SPORTS 9HD  IPTVultra.com [960x544]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/8.ts
+#EXTINF:-1,L VIP BEIN SPORTS 3SD  IPTVultra.com [1024x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/7.ts
+#EXTINF:-1,L VIP BEIN SPORTS 4HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/98.ts
+#EXTINF:-1,L VIP BEIN SPORTS 3SD  IPTVultra.com [1024x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/97.ts
+#EXTINF:-1,L VIP BEIN SPORTS 3HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/74.ts
+#EXTINF:-1,L VIP BEIN SPORTS 2HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/72.ts
+#EXTINF:-1,L VIP BEIN SPORTS 2SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/73.ts
+#EXTINF:-1,L (AR) OSN SPORTS 2 HD  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/123.ts
+#EXTINF:-1,MBC PROSPORTS 2  IPTVultra.com [720x576]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/60.ts
+#EXTINF:-1,L VIP BEIN SPORTS 1SD  IPTVultra.com [1280x736]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/71.ts
+#EXTINF:-1,BEIN SPORTS HD 7  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/917.ts
+#EXTINF:-1,BEIN SPORTS HD 1  IPTVultra.com [1280x720]
+http://51.255.71.66:8000/live/mohnd03/Dh4eWdNrxH/911.ts
+#EXTINF:-1,Italia: Sky Fox Sports HD  IPTVultra.com [1280x736]
+http://51.255.75.17:8000/live/doyon/doyon/5203.ts
+#EXTINF:-1,Fox Sports1  IPTVultra.com [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/622.ts
+#EXTINF:-1, NUMERO 23 HD  IPTVultra.com [960x544]
+http://51.255.75.17:8000/live/doyon/doyon/550.ts
+#EXTINF:-1, SKY PREMIER SPORTS HD  IPTVultra.com [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/4353.ts
+#EXTINF:-1, TV5 HD  IPTVultra.com [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/551.ts
+#EXTINF:-1, SKY SPORTS 2 HD  IPTVultra.com [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/552.ts
+#EXTINF:-1, SKY SPORTS 3 HD  IPTVultra.com [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/553.ts
+#EXTINF:-1, SKY SPORTS 4 HD  IPTVultra.com [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/554.ts
+#EXTINF:-1, SKY SPORTS 5 HD  IPTVultra.com [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/555.ts
+#EXTINF:-1, SKY SPORTS F1  IPTVultra.com [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/561.ts
+#EXTINF:-1, FOX SPORTS 1 US HD  IPTVultra.com [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/548.ts
+#EXTINF:-1, NAT GEO HD  IPTVultra.com [1280x720]
+http://51.255.75.17:8000/live/doyon/doyon/549.ts
+#EXTINF:-1, Gtv Sports Plus ( Ghana )  IPTVultra.com [640x368]
+http://51.255.75.17:8000/live/doyon/doyon/3879.ts
+#EXTINF:-1,Fox Sports 506HD  IPTVultra.com [640x368]
+http://51.255.75.17:8000/live/doyon/doyon/2128.ts
+#EXTINF:-1, Bein Sports USA HD  IPTVultra.com [960x544]
+http://51.255.75.17:8000/live/doyon/doyon/2131.ts
+#EXTINF:-1, Look Plus  IPTVultra.com [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/585.ts
+#EXTINF:-1,BeinSports News HD  IPTVultra.com [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/6226.ts
+#EXTINF:-1,arabe: Dubai Sports  IPTVultra.com [720x576]
+http://51.255.75.17:8000/live/doyon/doyon/499.ts
+#EXTINF:-1,+TR: SPORTS TV FULL HD B  IPTVultra.com [720x496]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/4473.ts
+#EXTINF:-1, TR: SPORTSTV HD+  IPTVultra.com [720x496]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/10075.ts
+#EXTINF:-1, BEINSPORTS 2  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20546.ts
+#EXTINF:-1, BEINSPORTS 8 (AR)  IPTVultra.com [1280x736]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/783.ts
+#EXTINF:-1, BEINSPORTS 5 (AR)  IPTVultra.com [768x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/780.ts
+#EXTINF:-1, BEINSPORTS 6 (AR)  IPTVultra.com [1280x720]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/781.ts
+#EXTINF:-1, BEINSPORTS 2 SD  IPTVultra.com [1040x592]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20551.ts
+#EXTINF:-1, BEINSPORTS 9 (AR)  IPTVultra.com [1120x640]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/784.ts
+#EXTINF:-1, BEINSPORTS 3 HD  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20553.ts
+#EXTINF:-1, BEINSPORTS 3 SD  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20552.ts
+#EXTINF:-1, BEINSPORTS 1 HD  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/6254.ts
+#EXTINF:-1, STAR SPORTS 2  IPTVultra.com [720x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/11664.ts
+#EXTINF:-1, FR: BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20544.ts
+#EXTINF:-1, FR: BEINSPORTS 3 HD  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20548.ts
+#EXTINF:-1, BEINSPORTS 2 HD  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20550.ts
+#EXTINF:-1, BEINSPORTS 3  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20547.ts
+#EXTINF:-1, BEINSPORTS 1  IPTVultra.com [1040x592]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20542.ts
+#EXTINF:-1, NFL SPORTS HD  IPTVultra.com [1280x720]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/4991.ts
+#EXTINF:-1, BEINSPORTS 1 SD  IPTVultra.com [1040x592]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20543.ts
+#EXTINF:-1, STAR SPORTS 4  IPTVultra.com [704x400]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/11666.ts
+#EXTINF:-1, FOX SPORTS 6  IPTVultra.com [720x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/17504.ts
+#EXTINF:-1, IT: RAI SPORT 2 HD  IPTVultra.com [704x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/5815.ts
+#EXTINF:-1, IT: RAI 1 HD  IPTVultra.com [1280x720]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/5821.ts
+#EXTINF:-1, FOX SPORTS 2 HD  IPTVultra.com [720x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/16434.ts
+#EXTINF:-1, IT: RAI SPORT 1 HD  IPTVultra.com [1280x720]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/5816.ts
+#EXTINF:-1, FOX SPORTS 1  IPTVultra.com [1920x1088]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/16435.ts
+#EXTINF:-1,: RAI 5 HD  IPTVultra.com [624x352]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/5817.ts
+#EXTINF:-1, CANAL  SPORTS HD  IPTVultra.com [1280x720]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/8864.ts
+#EXTINF:-1, MBC Pro Sports 1 HD  IPTVultra.com [720x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/5630.ts
+#EXTINF:-1, MBC Pro Sports 2 HD  IPTVultra.com [720x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/5631.ts
+#EXTINF:-1, Dubai Sports  IPTVultra.com [1280x720]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/7390.ts
+#EXTINF:-1, ÐšÐ&#176;Ð&#189;Ð&#176;Ð&#187; Dance Sports Ð&#190;Ð&#189;Ð&#187;Ð&#176;Ð&#185;Ð&#189;  IPTVultra.com [1280x720]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/18504.ts
+#EXTINF:-1, Kombat Sports  IPTVultra.com [720x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/20752.ts
+#EXTINF:-1, FR: BEINSPORTS 3 HD  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/548.ts
+#EXTINF:-1, BEINSPORTS 3 SD  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/552.ts
+#EXTINF:-1, BEINSPORTS 3  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/547.ts
+#EXTINF:-1, BEINSPORTS 1 SD  IPTVultra.com [1040x592]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/543.ts
+#EXTINF:-1, BEINSPORTS 2 SD  IPTVultra.com [1040x592]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/551.ts
+#EXTINF:-1, FR: BEINSPORTS 1 HD  IPTVultra.com [1040x592]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/544.ts
+#EXTINF:-1, BEINSPORTS 3 HD  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/553.ts
+#EXTINF:-1, BEINSPORTS 2  IPTVultra.com [960x544]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/546.ts
+#EXTINF:-1, FOX SPORTS 6  IPTVultra.com [720x576]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/504.ts
+#EXTINF:-1,+TR: SPORTS TV FULL HD B  IPTVultra.com [720x496]
+http://79.137.3.172:8000/live/Tomaso3/Tomaso3/473.ts
+#EXTINF:-1,M6  IPTVultra.com [1440x1088]
+http://94.23.39.14:8000/live/rossi/rossi/2.ts
+#EXTINF:-1,6ter  IPTVultra.com [1600x912]
+http://94.23.39.14:8000/live/rossi/rossi/3.ts
+#EXTINF:-1,CANAL+GOLF  IPTVultra.com [1280x720]
+http://94.23.39.14:8000/live/rossi/rossi/4.ts
+#EXTINF:-1,CANAL HD  IPTVultra.com [1280x720]
+http://94.23.39.14:8000/live/rossi/rossi/5.ts
+#EXTINF:-1,TV BREIZH  IPTVultra.com [960x544]
+http://94.23.39.14:8000/live/rossi/rossi/6.ts
+#EXTINF:-1,TF1  IPTVultra.com [720x416]
+http://94.23.39.14:8000/live/rossi/rossi/7.ts
+#EXTINF:-1,FRANCE 3  IPTVultra.com [960x544]
+http://94.23.39.14:8000/live/rossi/rossi/9.ts
+#EXTINF:-1,CINE FRISSON HD  IPTVultra.com [720x576]
+http://94.23.39.14:8000/live/rossi/rossi/10.ts
+#EXTINF:-1,CINE PREMIER HD  IPTVultra.com [1280x720]
+http://94.23.39.14:8000/live/rossi/rossi/11.ts
+#EXTINF:-1,ANIMAUX HD  IPTVultra.com [720x416]
+http://94.23.39.14:8000/live/rossi/rossi/14.ts
+#EXTINF:-1,CINE FAMIZ HD  IPTVultra.com [1920x1088]
+http://94.23.39.14:8000/live/rossi/rossi/13.ts
+#EXTINF:-1,M6 Music  IPTVultra.com [1280x720]
+http://94.23.39.14:8000/live/rossi/rossi/70.ts
+#EXTINF:-1,DISCOVERY SCIENCES  IPTVultra.com [1280x720]
+http://94.23.39.14:8000/live/rossi/rossi/12.ts
+#EXTINF:-1,ABU DHABI SPORTS 1  IPTVultra.com [1280x720]
+http://94.23.39.14:8000/live/rossi/rossi/71.ts
+#EXTINF:-1,ABU DHABI SPORTS 2  IPTVultra.com [720x576]
+http://94.23.39.14:8000/live/rossi/rossi/72.ts
+#EXTINF:-1,ABU DHABI SPORTS 4  IPTVultra.com [1920x1088]
+http://94.23.39.14:8000/live/rossi/rossi/63.ts
+#EXTINF:-1,Orange Premium 7  IPTVultra.com [1280x544]
+http://94.23.39.14:8000/live/rossi/rossi/64.ts
+#EXTINF:-1,OCS CITY  IPTVultra.com [720x480]
+http://94.23.39.14:8000/live/rossi/rossi/18.ts
+#EXTINF:-1,OCS CHOC HD  IPTVultra.com [1440x1088]
+http://94.23.39.14:8000/live/rossi/rossi/19.ts
+#EXTINF:-1,OCS GEANTS  IPTVultra.com [1440x1088]
+http://94.23.39.14:8000/live/rossi/rossi/20.ts
+#EXTINF:-1,FOX SPORTS 2 HD  IPTVultra.com [1024x576]
+http://94.23.39.14:8000/live/rossi/rossi/1082.ts
+#EXTINF:-1,FOX SPORTS 1 HD  IPTVultra.com [1088x608]
+http://94.23.39.14:8000/live/rossi/rossi/1081.ts
+#EXTINF:-1,FOX SPORTS 3 HD  IPTVultra.com [720x576]
+http://94.23.39.14:8000/live/rossi/rossi/1083.ts
+#EXTINF:-1,FOX SPORTS 4  IPTVultra.com [720x576]
+http://94.23.39.14:8000/live/rossi/rossi/359.ts
+#EXTINF:-1,FOX SPORTS 5 HD  IPTVultra.com [1024x576]
+http://94.23.39.14:8000/live/rossi/rossi/1086.ts
+#EXTINF:-1,FOX SPORTS 6  IPTVultra.com [1024x576]
+http://94.23.39.14:8000/live/rossi/rossi/356.ts
+#EXTINF:-1,SKY SPORTS NEWS HD  IPTVultra.com [544x576]
+http://94.23.39.14:8000/live/rossi/rossi/725.ts
+#EXTINF:-1,SKY SPORTS 5 HD  IPTVultra.com [1280x720]
+http://94.23.39.14:8000/live/rossi/rossi/727.ts
+#EXTINF:-1,SKY SPORTS 4 HD  IPTVultra.com [1280x720]
+http://94.23.39.14:8000/live/rossi/rossi/728.ts
+#EXTINF:-1,SKY SPORTS 2 HD  IPTVultra.com [704x576]
+http://94.23.39.14:8000/live/rossi/rossi/730.ts
+#EXTINF:-1,SKY SPORTS 1 HD  IPTVultra.com [704x576]
+http://94.23.39.14:8000/live/rossi/rossi/731.ts
+#EXTINF:-1,Sky.Sports.News.HD  IPTVultra.com [704x576]
+http://149.202.211.226:8000/live/Julesmwamba2001@yahoo.fr/Julesmwamba2001@yahoo.fr/1323.ts
+#EXTINF:-1,Sky.Sports3.HD  IPTVultra.com [1280x720]
+http://149.202.211.226:8000/live/Julesmwamba2001@yahoo.fr/Julesmwamba2001@yahoo.fr/1315.ts
+#EXTINF:-1,Sky.Setanta.Sports  IPTVultra.com [1920x1088]
+http://149.202.211.226:8000/live/Julesmwamba2001@yahoo.fr/Julesmwamba2001@yahoo.fr/1320.ts
+#EXTINF:-1,Sky.Sports5.HD  IPTVultra.com [1280x720]
+http://149.202.211.226:8000/live/Julesmwamba2001@yahoo.fr/Julesmwamba2001@yahoo.fr/1317.ts
+#EXTINF:-1,bt.sports.extra  IPTVultra.com [704x576]
+http://149.202.211.226:8000/live/Julesmwamba2001@yahoo.fr/Julesmwamba2001@yahoo.fr/1420.ts
